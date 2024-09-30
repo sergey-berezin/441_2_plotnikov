@@ -1,5 +1,6 @@
-namespace tournamentScheduleGeneticCMC;
+
 using Genetic;
+using tournamentScheduleGeneticCMC;
 
 public static class Debug {
     private static Population _startPopulation = new();

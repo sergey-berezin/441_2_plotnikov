@@ -8,7 +8,7 @@
     </PropertyGroup>
 
     <ItemGroup>
-      <ProjectReference Include="..\Genetic\Genetic.csproj" />
+      <PackageReference Include="Genetic" Version="1.0.0" />
     </ItemGroup>
 
 </Project>

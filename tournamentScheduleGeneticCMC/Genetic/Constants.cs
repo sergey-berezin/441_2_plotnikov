@@ -1,7 +1,7 @@
 namespace Genetic;
 
 public static class Constants {
-    public const int NumOfSelectionRound = 10;
+    public const int NumOfSelectionRound = 1000;
     
     public const int PopulationSize = 1000;
     

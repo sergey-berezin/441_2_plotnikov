@@ -1,3 +1,1 @@
-﻿using tournamentScheduleGeneticCMC;
-
-Debug.Train();
+﻿Debug.Train();
