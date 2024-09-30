@@ -7,7 +7,7 @@ public static class DebugExtensions {
         Console.Write(prefix);
         for (var tour = 0; tour < Constants.NumOfTours; ++tour) {
             for (var player = 0; player < Constants.NumOfPlayers; ++player) {
-                Console.Write(species._gens[tour][player] == null ? "- " : $"{species._gens[tour][player]} ");
+                Console.Write(species.Gens[tour][player] == null ? "- " : $"{species.Gens[tour][player]} ");
             }
             Console.WriteLine();
         }

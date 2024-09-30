@@ -7,8 +7,12 @@
         <Nullable>enable</Nullable>
     </PropertyGroup>
 
+<!--    <ItemGroup>-->
+<!--      <PackageReference Include="Genetic" Version="1.0.0" />-->
+<!--    </ItemGroup>-->
+
     <ItemGroup>
-      <PackageReference Include="Genetic" Version="1.0.0" />
+        <ProjectReference Include="..\Genetic\Genetic.csproj" />
     </ItemGroup>
 
 </Project>

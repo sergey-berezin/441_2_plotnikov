@@ -1,32 +1,31 @@
 namespace Genetic;
 
 public class Species : IComparable<Species> {
-    public readonly List<int?>[] _gens;
+    public readonly List<int>[] Gens;
 
     public Species() {
-        _gens = new List<int?>[Constants.NumOfTours];
-        Random random = new();
+        Gens = new List<int>[Constants.NumOfTours];
         for (var tour = 0; tour < Constants.NumOfTours; ++tour) {
             var playgroundsNumbers = Enumerable.Range(0, Constants.NumOfPlaygrounds + 1)
-                .OrderBy(_ => random.Next())
+                .OrderBy(_ => MyRand.Rnd.Next())
                 .Take(Constants.NumOfPlayers / 2)
                 .ToList();
-            _gens[tour] = playgroundsNumbers
-                .SelectMany(num => new List<int?> { num, num })
-                .Concat(Constants.NumOfPlayers % 2 != 0 ? new List<int?> { null } : Enumerable.Empty<int?>())
-                .OrderBy(x => random.Next())
+            Gens[tour] = playgroundsNumbers
+                .SelectMany(num => new List<int> { num, num })
+                .Concat(Constants.NumOfPlayers % 2 != 0 ? new List<int> { -1 } : Enumerable.Empty<int>())
+                .OrderBy(_ => MyRand.Rnd.Next())
                 .ToList();
         }
     }
-    
-    public Species(List<int?>[] gens) {
-        _gens = gens;
+
+    private Species(List<int>[] gens) {
+        Gens = gens;
     }
     
     public int MinNumOfPlaygrounds =>
         Enumerable.Range(0, Constants.NumOfPlayers)
             .Select(player => Enumerable.Range(0, Constants.NumOfTours)
-                .Select(tour => _gens[tour][player])
+                .Select(tour => Gens[tour][player])
                 .Distinct()
                 .Count()
             )
@@ -39,7 +38,7 @@ public class Species : IComparable<Species> {
                     Enumerable.Range(0, Constants.NumOfPlayers)
                         .Where(otherPlayer =>
                             otherPlayer != player &&
-                            _gens[tour][player] == _gens[tour][otherPlayer]
+                            Gens[tour][player] == Gens[tour][otherPlayer]
                         )
                         .Distinct()
                 )
@@ -48,16 +47,15 @@ public class Species : IComparable<Species> {
             .Min();
 
     public Species Mutation() {
-        Random random = new();
         return new Species(
-            _gens
+            Gens
                 .Select(row => {
                     var newRow = row.ToList();
 
-                    for (int index = 0; index < newRow.Count; index++) {
+                    for (var index = 0; index < newRow.Count; index++) {
                         if (!MyRand.GetTrueWithProbability(Constants.MutationProbability))
                             continue;
-                        var randomIndex = random.Next(0, Constants.NumOfPlayers);
+                        var randomIndex = MyRand.Rnd.Next(0, Constants.NumOfPlayers);
                         (newRow[index], newRow[randomIndex]) = (newRow[randomIndex], newRow[index]);
                     }
                     return newRow;
@@ -71,11 +69,11 @@ public class Species : IComparable<Species> {
             return new KeyValuePair<Species, Species>(species1, species2);
         }
         return new KeyValuePair<Species, Species>(
-            new Species(species1._gens
-                .Select((tour, index) => index < Constants.NumOfTours / 2 ? species2._gens[index] : tour)
+            new Species(species1.Gens
+                .Select((tour, index) => index < Constants.NumOfTours / 2 ? species2.Gens[index] : tour)
                 .ToArray()),
-            new Species(species2._gens
-                .Select((tour, index) => index < Constants.NumOfTours / 2 ? species1._gens[index] : tour)
+            new Species(species2.Gens
+                .Select((tour, index) => index < Constants.NumOfTours / 2 ? species1.Gens[index] : tour)
                 .ToArray())
         );
     }
