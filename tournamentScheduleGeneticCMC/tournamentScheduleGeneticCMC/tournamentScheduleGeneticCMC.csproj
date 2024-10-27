@@ -1,18 +1,16 @@
 <Project Sdk="Microsoft.NET.Sdk">
 
-    <PropertyGroup>
-        <OutputType>Exe</OutputType>
-        <TargetFramework>net6.0</TargetFramework>
-        <ImplicitUsings>enable</ImplicitUsings>
-        <Nullable>enable</Nullable>
-    </PropertyGroup>
+  <PropertyGroup>
+    <OutputType>WinExe</OutputType>
+    <TargetFramework>net8.0-windows</TargetFramework>
+    <RootNamespace>WPF__App</RootNamespace>
+    <Nullable>enable</Nullable>
+    <ImplicitUsings>enable</ImplicitUsings>
+    <UseWPF>True</UseWPF>
+  </PropertyGroup>
 
-<!--    <ItemGroup>-->
-<!--      <PackageReference Include="Genetic" Version="1.0.0" />-->
-<!--    </ItemGroup>-->
-
-    <ItemGroup>
-        <ProjectReference Include="..\Genetic\Genetic.csproj" />
-    </ItemGroup>
+	<ItemGroup>
+		<ProjectReference Include="..\Genetic\Genetic.csproj" />
+	</ItemGroup>
 
 </Project>
