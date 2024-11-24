@@ -1,8 +1,10 @@
 namespace Genetic;
 
 public class Population {
-    public readonly List<Species> SpeciesGroup;
+    public List<Species> SpeciesGroup;
     public SpeciesParams speciesParams { get; set; }
+
+    public Population() { }
 
     public Population(SpeciesParams speciesParams) {
         this.speciesParams = speciesParams;

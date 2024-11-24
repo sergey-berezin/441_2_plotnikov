@@ -4,7 +4,7 @@ public class Species : IComparable<Species> {
     public readonly List<int>[] Gens;
     public SpeciesParams speciesParams { get; set; }
 
-public Species(SpeciesParams speciesParams) {
+    public Species(SpeciesParams speciesParams) {
         this.speciesParams = speciesParams;
         Gens = new List<int>[speciesParams.NumOfTours];
         for (var tour = 0; tour < speciesParams.NumOfTours; ++tour) {
@@ -24,7 +24,7 @@ public Species(SpeciesParams speciesParams) {
         this.speciesParams = speciesParams;
         Gens = gens;
     }
-    
+
     public int MinNumOfPlaygrounds =>
         Enumerable.Range(0, speciesParams.NumOfPlayers)
             .Select(player => Enumerable.Range(0, speciesParams.NumOfTours)
