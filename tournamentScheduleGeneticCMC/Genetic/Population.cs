@@ -1,13 +1,18 @@
 namespace Genetic;
 
 public class Population {
-    public readonly List<Species> SpeciesGroup;
+    public List<Species> SpeciesGroup;
+    public SpeciesParams speciesParams { get; set; }
 
-    public Population() {
+    public Population() { }
+
+    public Population(SpeciesParams speciesParams) {
+        this.speciesParams = speciesParams;
         SpeciesGroup = Enumerable.Range(0, Constants.PopulationSize)
-            .Select(_ => new Species()).ToList();
+            .Select(_ => new Species(speciesParams)).ToList();
     }
-    public Population(List<Species> speciesGroup) {
+    public Population(List<Species> speciesGroup, SpeciesParams speciesParams) {
+        this.speciesParams = speciesParams;
         SpeciesGroup = speciesGroup;
     }
 
