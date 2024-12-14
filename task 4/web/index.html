@@ -1,0 +1,50 @@
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Tournament genetic</title>
+    <link rel="stylesheet" href="main.css">
+</head>
+<body>
+    <div>
+        <label for="numOfPlayers">Number of Players:</label>
+        <input id="numOfPlayers" type="number" name="numOfPlayers">
+    </div>
+    <div>
+        <label for="numOfTours">Number of Tours:</label>
+        <input id="numOfTours" type="number" name="numOfTours">
+    </div>
+    <div>
+        <label for="numOfPlaygrounds">Number of Playgrounds:</label>
+        <input id="numOfPlaygrounds" type="number" name="numOfPlaygrounds">
+    </div>
+
+    <div>
+        <button onclick="start()">Start</button>
+        <button onclick="stop()">Stop</button>
+    </div>
+
+    <div>
+        <table id="outputTable"></table>
+    </div>
+    <div>
+        <strong>GenerationNum:</strong> <span id="generationNum"></span>
+    </div>
+    <div>
+        <strong>MinNumOfOpponents:</strong> <span id="minNumOfOpponents"></span>
+    </div>
+    <div>
+        <strong>MinNumOfPlaygrounds:</strong> <span id="minNumOfPlaygrounds"></span>
+    </div>
+    <div>
+        <strong>AvgMinNumOfOpponents:</strong> <span id="avgMinNumOfOpponents"></span>
+    </div>
+    <div>
+        <strong>AvgMinNumOfPlaygrounds:</strong> <span id="avgMinNumOfPlaygrounds"></span>
+    </div>
+
+    <script src="main.js"></script>
+</body>
+</html>
