@@ -1,0 +1,4227 @@
+﻿{
+  "SpeciesGroup": [
+    {
+      "Gens": [
+        [ 3, 3 ],
+        [ 3, 3 ],
+        [ 1, 1 ]
+      ],
+      "speciesParams": {
+        "NumOfPlayers": 2,
+        "NumOfTours": 3,
+        "NumOfPlaygrounds": 4
+      },
+      "MinNumOfPlaygrounds": 2,
+      "MinNumOfOpponents": 1
+    },
+    {
+      "Gens": [
+        [ 2, 2 ],
+        [ 4, 4 ],
+        [ 2, 2 ]
+      ],
+      "speciesParams": {
+        "NumOfPlayers": 2,
+        "NumOfTours": 3,
+        "NumOfPlaygrounds": 4
+      },
+      "MinNumOfPlaygrounds": 2,
+      "MinNumOfOpponents": 1
+    },
+    {
+      "Gens": [
+        [ 2, 2 ],
+        [ 0, 0 ],
+        [ 0, 0 ]
+      ],
+      "speciesParams": {
+        "NumOfPlayers": 2,
+        "NumOfTours": 3,
+        "NumOfPlaygrounds": 4
+      },
+      "MinNumOfPlaygrounds": 2,
+      "MinNumOfOpponents": 1
+    },
+    {
+      "Gens": [
+        [ 3, 3 ],
+        [ 0, 0 ],
+        [ 4, 4 ]
+      ],
+      "speciesParams": {
+        "NumOfPlayers": 2,
+        "NumOfTours": 3,
+        "NumOfPlaygrounds": 4
+      },
+      "MinNumOfPlaygrounds": 3,
+      "MinNumOfOpponents": 1
+    },
+    {
+      "Gens": [
+        [ 0, 0 ],
+        [ 3, 3 ],
+        [ 1, 1 ]
+      ],
+      "speciesParams": {
+        "NumOfPlayers": 2,
+        "NumOfTours": 3,
+        "NumOfPlaygrounds": 4
+      },
+      "MinNumOfPlaygrounds": 3,
+      "MinNumOfOpponents": 1
+    },
+    {
+      "Gens": [
+        [ 4, 4 ],
+        [ 1, 1 ],
+        [ 2, 2 ]
+      ],
+      "speciesParams": {
+        "NumOfPlayers": 2,
+        "NumOfTours": 3,
+        "NumOfPlaygrounds": 4
+      },
+      "MinNumOfPlaygrounds": 3,
+      "MinNumOfOpponents": 1
+    },
+    {
+      "Gens": [
+        [ 2, 2 ],
+        [ 2, 2 ],
+        [ 2, 2 ]
+      ],
+      "speciesParams": {
+        "NumOfPlayers": 2,
+        "NumOfTours": 3,
+        "NumOfPlaygrounds": 4
+      },
+      "MinNumOfPlaygrounds": 1,
+      "MinNumOfOpponents": 1
+    },
+    {
+      "Gens": [
+        [ 1, 1 ],
+        [ 1, 1 ],
+        [ 3, 3 ]
+      ],
+      "speciesParams": {
+        "NumOfPlayers": 2,
+        "NumOfTours": 3,
+        "NumOfPlaygrounds": 4
+      },
+      "MinNumOfPlaygrounds": 2,
+      "MinNumOfOpponents": 1
+    },
+    {
+      "Gens": [
+        [ 0, 0 ],
+        [ 3, 3 ],
+        [ 3, 3 ]
+      ],
+      "speciesParams": {
+        "NumOfPlayers": 2,
+        "NumOfTours": 3,
+        "NumOfPlaygrounds": 4
+      },
+      "MinNumOfPlaygrounds": 2,
+      "MinNumOfOpponents": 1
+    },
+    {
+      "Gens": [
+        [ 3, 3 ],
+        [ 2, 2 ],
+        [ 3, 3 ]
+      ],
+      "speciesParams": {
+        "NumOfPlayers": 2,
+        "NumOfTours": 3,
+        "NumOfPlaygrounds": 4
+      },
+      "MinNumOfPlaygrounds": 2,
+      "MinNumOfOpponents": 1
+    },
+    {
+      "Gens": [
+        [ 0, 0 ],
+        [ 2, 2 ],
+        [ 4, 4 ]
+      ],
+      "speciesParams": {
+        "NumOfPlayers": 2,
+        "NumOfTours": 3,
+        "NumOfPlaygrounds": 4
+      },
+      "MinNumOfPlaygrounds": 3,
+      "MinNumOfOpponents": 1
+    },
+    {
+      "Gens": [
+        [ 3, 3 ],
+        [ 3, 3 ],
+        [ 2, 2 ]
+      ],
+      "speciesParams": {
+        "NumOfPlayers": 2,
+        "NumOfTours": 3,
+        "NumOfPlaygrounds": 4
+      },
+      "MinNumOfPlaygrounds": 2,
+      "MinNumOfOpponents": 1
+    },
+    {
+      "Gens": [
+        [ 4, 4 ],
+        [ 0, 0 ],
+        [ 3, 3 ]
+      ],
+      "speciesParams": {
+        "NumOfPlayers": 2,
+        "NumOfTours": 3,
+        "NumOfPlaygrounds": 4
+      },
+      "MinNumOfPlaygrounds": 3,
+      "MinNumOfOpponents": 1
+    },
+    {
+      "Gens": [
+        [ 1, 1 ],
+        [ 1, 1 ],
+        [ 2, 2 ]
+      ],
+      "speciesParams": {
+        "NumOfPlayers": 2,
+        "NumOfTours": 3,
+        "NumOfPlaygrounds": 4
+      },
+      "MinNumOfPlaygrounds": 2,
+      "MinNumOfOpponents": 1
+    },
+    {
+      "Gens": [
+        [ 1, 1 ],
+        [ 4, 4 ],
+        [ 4, 4 ]
+      ],
+      "speciesParams": {
+        "NumOfPlayers": 2,
+        "NumOfTours": 3,
+        "NumOfPlaygrounds": 4
+      },
+      "MinNumOfPlaygrounds": 2,
+      "MinNumOfOpponents": 1
+    },
+    {
+      "Gens": [
+        [ 3, 3 ],
+        [ 3, 3 ],
+        [ 3, 3 ]
+      ],
+      "speciesParams": {
+        "NumOfPlayers": 2,
+        "NumOfTours": 3,
+        "NumOfPlaygrounds": 4
+      },
+      "MinNumOfPlaygrounds": 1,
+      "MinNumOfOpponents": 1
+    },
+    {
+      "Gens": [
+        [ 0, 0 ],
+        [ 4, 4 ],
+        [ 1, 1 ]
+      ],
+      "speciesParams": {
+        "NumOfPlayers": 2,
+        "NumOfTours": 3,
+        "NumOfPlaygrounds": 4
+      },
+      "MinNumOfPlaygrounds": 3,
+      "MinNumOfOpponents": 1
+    },
+    {
+      "Gens": [
+        [ 0, 0 ],
+        [ 3, 3 ],
+        [ 1, 1 ]
+      ],
+      "speciesParams": {
+        "NumOfPlayers": 2,
+        "NumOfTours": 3,
+        "NumOfPlaygrounds": 4
+      },
+      "MinNumOfPlaygrounds": 3,
+      "MinNumOfOpponents": 1
+    },
+    {
+      "Gens": [
+        [ 1, 1 ],
+        [ 0, 0 ],
+        [ 0, 0 ]
+      ],
+      "speciesParams": {
+        "NumOfPlayers": 2,
+        "NumOfTours": 3,
+        "NumOfPlaygrounds": 4
+      },
+      "MinNumOfPlaygrounds": 2,
+      "MinNumOfOpponents": 1
+    },
+    {
+      "Gens": [
+        [ 2, 2 ],
+        [ 1, 1 ],
+        [ 1, 1 ]
+      ],
+      "speciesParams": {
+        "NumOfPlayers": 2,
+        "NumOfTours": 3,
+        "NumOfPlaygrounds": 4
+      },
+      "MinNumOfPlaygrounds": 2,
+      "MinNumOfOpponents": 1
+    },
+    {
+      "Gens": [
+        [ 4, 4 ],
+        [ 0, 0 ],
+        [ 0, 0 ]
+      ],
+      "speciesParams": {
+        "NumOfPlayers": 2,
+        "NumOfTours": 3,
+        "NumOfPlaygrounds": 4
+      },
+      "MinNumOfPlaygrounds": 2,
+      "MinNumOfOpponents": 1
+    },
+    {
+      "Gens": [
+        [ 1, 1 ],
+        [ 0, 0 ],
+        [ 4, 4 ]
+      ],
+      "speciesParams": {
+        "NumOfPlayers": 2,
+        "NumOfTours": 3,
+        "NumOfPlaygrounds": 4
+      },
+      "MinNumOfPlaygrounds": 3,
+      "MinNumOfOpponents": 1
+    },
+    {
+      "Gens": [
+        [ 4, 4 ],
+        [ 4, 4 ],
+        [ 4, 4 ]
+      ],
+      "speciesParams": {
+        "NumOfPlayers": 2,
+        "NumOfTours": 3,
+        "NumOfPlaygrounds": 4
+      },
+      "MinNumOfPlaygrounds": 1,
+      "MinNumOfOpponents": 1
+    },
+    {
+      "Gens": [
+        [ 4, 4 ],
+        [ 1, 1 ],
+        [ 1, 1 ]
+      ],
+      "speciesParams": {
+        "NumOfPlayers": 2,
+        "NumOfTours": 3,
+        "NumOfPlaygrounds": 4
+      },
+      "MinNumOfPlaygrounds": 2,
+      "MinNumOfOpponents": 1
+    },
+    {
+      "Gens": [
+        [ 0, 0 ],
+        [ 2, 2 ],
+        [ 0, 0 ]
+      ],
+      "speciesParams": {
+        "NumOfPlayers": 2,
+        "NumOfTours": 3,
+        "NumOfPlaygrounds": 4
+      },
+      "MinNumOfPlaygrounds": 2,
+      "MinNumOfOpponents": 1
+    },
+    {
+      "Gens": [
+        [ 4, 4 ],
+        [ 0, 0 ],
+        [ 1, 1 ]
+      ],
+      "speciesParams": {
+        "NumOfPlayers": 2,
+        "NumOfTours": 3,
+        "NumOfPlaygrounds": 4
+      },
+      "MinNumOfPlaygrounds": 3,
+      "MinNumOfOpponents": 1
+    },
+    {
+      "Gens": [
+        [ 2, 2 ],
+        [ 4, 4 ],
+        [ 1, 1 ]
+      ],
+      "speciesParams": {
+        "NumOfPlayers": 2,
+        "NumOfTours": 3,
+        "NumOfPlaygrounds": 4
+      },
+      "MinNumOfPlaygrounds": 3,
+      "MinNumOfOpponents": 1
+    },
+    {
+      "Gens": [
+        [ 3, 3 ],
+        [ 0, 0 ],
+        [ 2, 2 ]
+      ],
+      "speciesParams": {
+        "NumOfPlayers": 2,
+        "NumOfTours": 3,
+        "NumOfPlaygrounds": 4
+      },
+      "MinNumOfPlaygrounds": 3,
+      "MinNumOfOpponents": 1
+    },
+    {
+      "Gens": [
+        [ 0, 0 ],
+        [ 0, 0 ],
+        [ 4, 4 ]
+      ],
+      "speciesParams": {
+        "NumOfPlayers": 2,
+        "NumOfTours": 3,
+        "NumOfPlaygrounds": 4
+      },
+      "MinNumOfPlaygrounds": 2,
+      "MinNumOfOpponents": 1
+    },
+    {
+      "Gens": [
+        [ 3, 3 ],
+        [ 0, 0 ],
+        [ 1, 1 ]
+      ],
+      "speciesParams": {
+        "NumOfPlayers": 2,
+        "NumOfTours": 3,
+        "NumOfPlaygrounds": 4
+      },
+      "MinNumOfPlaygrounds": 3,
+      "MinNumOfOpponents": 1
+    },
+    {
+      "Gens": [
+        [ 2, 2 ],
+        [ 1, 1 ],
+        [ 0, 0 ]
+      ],
+      "speciesParams": {
+        "NumOfPlayers": 2,
+        "NumOfTours": 3,
+        "NumOfPlaygrounds": 4
+      },
+      "MinNumOfPlaygrounds": 3,
+      "MinNumOfOpponents": 1
+    },
+    {
+      "Gens": [
+        [ 1, 1 ],
+        [ 4, 4 ],
+        [ 0, 0 ]
+      ],
+      "speciesParams": {
+        "NumOfPlayers": 2,
+        "NumOfTours": 3,
+        "NumOfPlaygrounds": 4
+      },
+      "MinNumOfPlaygrounds": 3,
+      "MinNumOfOpponents": 1
+    },
+    {
+      "Gens": [
+        [ 0, 0 ],
+        [ 3, 3 ],
+        [ 3, 3 ]
+      ],
+      "speciesParams": {
+        "NumOfPlayers": 2,
+        "NumOfTours": 3,
+        "NumOfPlaygrounds": 4
+      },
+      "MinNumOfPlaygrounds": 2,
+      "MinNumOfOpponents": 1
+    },
+    {
+      "Gens": [
+        [ 3, 3 ],
+        [ 4, 4 ],
+        [ 3, 3 ]
+      ],
+      "speciesParams": {
+        "NumOfPlayers": 2,
+        "NumOfTours": 3,
+        "NumOfPlaygrounds": 4
+      },
+      "MinNumOfPlaygrounds": 2,
+      "MinNumOfOpponents": 1
+    },
+    {
+      "Gens": [
+        [ 4, 4 ],
+        [ 3, 3 ],
+        [ 0, 0 ]
+      ],
+      "speciesParams": {
+        "NumOfPlayers": 2,
+        "NumOfTours": 3,
+        "NumOfPlaygrounds": 4
+      },
+      "MinNumOfPlaygrounds": 3,
+      "MinNumOfOpponents": 1
+    },
+    {
+      "Gens": [
+        [ 0, 0 ],
+        [ 4, 4 ],
+        [ 1, 1 ]
+      ],
+      "speciesParams": {
+        "NumOfPlayers": 2,
+        "NumOfTours": 3,
+        "NumOfPlaygrounds": 4
+      },
+      "MinNumOfPlaygrounds": 3,
+      "MinNumOfOpponents": 1
+    },
+    {
+      "Gens": [
+        [ 0, 0 ],
+        [ 1, 1 ],
+        [ 3, 3 ]
+      ],
+      "speciesParams": {
+        "NumOfPlayers": 2,
+        "NumOfTours": 3,
+        "NumOfPlaygrounds": 4
+      },
+      "MinNumOfPlaygrounds": 3,
+      "MinNumOfOpponents": 1
+    },
+    {
+      "Gens": [
+        [ 1, 1 ],
+        [ 2, 2 ],
+        [ 2, 2 ]
+      ],
+      "speciesParams": {
+        "NumOfPlayers": 2,
+        "NumOfTours": 3,
+        "NumOfPlaygrounds": 4
+      },
+      "MinNumOfPlaygrounds": 2,
+      "MinNumOfOpponents": 1
+    },
+    {
+      "Gens": [
+        [ 0, 0 ],
+        [ 1, 1 ],
+        [ 1, 1 ]
+      ],
+      "speciesParams": {
+        "NumOfPlayers": 2,
+        "NumOfTours": 3,
+        "NumOfPlaygrounds": 4
+      },
+      "MinNumOfPlaygrounds": 2,
+      "MinNumOfOpponents": 1
+    },
+    {
+      "Gens": [
+        [ 1, 1 ],
+        [ 3, 3 ],
+        [ 2, 2 ]
+      ],
+      "speciesParams": {
+        "NumOfPlayers": 2,
+        "NumOfTours": 3,
+        "NumOfPlaygrounds": 4
+      },
+      "MinNumOfPlaygrounds": 3,
+      "MinNumOfOpponents": 1
+    },
+    {
+      "Gens": [
+        [ 3, 3 ],
+        [ 0, 0 ],
+        [ 1, 1 ]
+      ],
+      "speciesParams": {
+        "NumOfPlayers": 2,
+        "NumOfTours": 3,
+        "NumOfPlaygrounds": 4
+      },
+      "MinNumOfPlaygrounds": 3,
+      "MinNumOfOpponents": 1
+    },
+    {
+      "Gens": [
+        [ 2, 2 ],
+        [ 4, 4 ],
+        [ 3, 3 ]
+      ],
+      "speciesParams": {
+        "NumOfPlayers": 2,
+        "NumOfTours": 3,
+        "NumOfPlaygrounds": 4
+      },
+      "MinNumOfPlaygrounds": 3,
+      "MinNumOfOpponents": 1
+    },
+    {
+      "Gens": [
+        [ 0, 0 ],
+        [ 1, 1 ],
+        [ 3, 3 ]
+      ],
+      "speciesParams": {
+        "NumOfPlayers": 2,
+        "NumOfTours": 3,
+        "NumOfPlaygrounds": 4
+      },
+      "MinNumOfPlaygrounds": 3,
+      "MinNumOfOpponents": 1
+    },
+    {
+      "Gens": [
+        [ 3, 3 ],
+        [ 0, 0 ],
+        [ 1, 1 ]
+      ],
+      "speciesParams": {
+        "NumOfPlayers": 2,
+        "NumOfTours": 3,
+        "NumOfPlaygrounds": 4
+      },
+      "MinNumOfPlaygrounds": 3,
+      "MinNumOfOpponents": 1
+    },
+    {
+      "Gens": [
+        [ 3, 3 ],
+        [ 3, 3 ],
+        [ 0, 0 ]
+      ],
+      "speciesParams": {
+        "NumOfPlayers": 2,
+        "NumOfTours": 3,
+        "NumOfPlaygrounds": 4
+      },
+      "MinNumOfPlaygrounds": 2,
+      "MinNumOfOpponents": 1
+    },
+    {
+      "Gens": [
+        [ 2, 2 ],
+        [ 1, 1 ],
+        [ 2, 2 ]
+      ],
+      "speciesParams": {
+        "NumOfPlayers": 2,
+        "NumOfTours": 3,
+        "NumOfPlaygrounds": 4
+      },
+      "MinNumOfPlaygrounds": 2,
+      "MinNumOfOpponents": 1
+    },
+    {
+      "Gens": [
+        [ 1, 1 ],
+        [ 2, 2 ],
+        [ 1, 1 ]
+      ],
+      "speciesParams": {
+        "NumOfPlayers": 2,
+        "NumOfTours": 3,
+        "NumOfPlaygrounds": 4
+      },
+      "MinNumOfPlaygrounds": 2,
+      "MinNumOfOpponents": 1
+    },
+    {
+      "Gens": [
+        [ 0, 0 ],
+        [ 3, 3 ],
+        [ 4, 4 ]
+      ],
+      "speciesParams": {
+        "NumOfPlayers": 2,
+        "NumOfTours": 3,
+        "NumOfPlaygrounds": 4
+      },
+      "MinNumOfPlaygrounds": 3,
+      "MinNumOfOpponents": 1
+    },
+    {
+      "Gens": [
+        [ 2, 2 ],
+        [ 1, 1 ],
+        [ 4, 4 ]
+      ],
+      "speciesParams": {
+        "NumOfPlayers": 2,
+        "NumOfTours": 3,
+        "NumOfPlaygrounds": 4
+      },
+      "MinNumOfPlaygrounds": 3,
+      "MinNumOfOpponents": 1
+    },
+    {
+      "Gens": [
+        [ 4, 4 ],
+        [ 0, 0 ],
+        [ 1, 1 ]
+      ],
+      "speciesParams": {
+        "NumOfPlayers": 2,
+        "NumOfTours": 3,
+        "NumOfPlaygrounds": 4
+      },
+      "MinNumOfPlaygrounds": 3,
+      "MinNumOfOpponents": 1
+    },
+    {
+      "Gens": [
+        [ 0, 0 ],
+        [ 0, 0 ],
+        [ 4, 4 ]
+      ],
+      "speciesParams": {
+        "NumOfPlayers": 2,
+        "NumOfTours": 3,
+        "NumOfPlaygrounds": 4
+      },
+      "MinNumOfPlaygrounds": 2,
+      "MinNumOfOpponents": 1
+    },
+    {
+      "Gens": [
+        [ 3, 3 ],
+        [ 1, 1 ],
+        [ 1, 1 ]
+      ],
+      "speciesParams": {
+        "NumOfPlayers": 2,
+        "NumOfTours": 3,
+        "NumOfPlaygrounds": 4
+      },
+      "MinNumOfPlaygrounds": 2,
+      "MinNumOfOpponents": 1
+    },
+    {
+      "Gens": [
+        [ 2, 2 ],
+        [ 0, 0 ],
+        [ 2, 2 ]
+      ],
+      "speciesParams": {
+        "NumOfPlayers": 2,
+        "NumOfTours": 3,
+        "NumOfPlaygrounds": 4
+      },
+      "MinNumOfPlaygrounds": 2,
+      "MinNumOfOpponents": 1
+    },
+    {
+      "Gens": [
+        [ 2, 2 ],
+        [ 4, 4 ],
+        [ 2, 2 ]
+      ],
+      "speciesParams": {
+        "NumOfPlayers": 2,
+        "NumOfTours": 3,
+        "NumOfPlaygrounds": 4
+      },
+      "MinNumOfPlaygrounds": 2,
+      "MinNumOfOpponents": 1
+    },
+    {
+      "Gens": [
+        [ 0, 0 ],
+        [ 4, 4 ],
+        [ 4, 4 ]
+      ],
+      "speciesParams": {
+        "NumOfPlayers": 2,
+        "NumOfTours": 3,
+        "NumOfPlaygrounds": 4
+      },
+      "MinNumOfPlaygrounds": 2,
+      "MinNumOfOpponents": 1
+    },
+    {
+      "Gens": [
+        [ 2, 2 ],
+        [ 3, 3 ],
+        [ 1, 1 ]
+      ],
+      "speciesParams": {
+        "NumOfPlayers": 2,
+        "NumOfTours": 3,
+        "NumOfPlaygrounds": 4
+      },
+      "MinNumOfPlaygrounds": 3,
+      "MinNumOfOpponents": 1
+    },
+    {
+      "Gens": [
+        [ 0, 0 ],
+        [ 2, 2 ],
+        [ 3, 3 ]
+      ],
+      "speciesParams": {
+        "NumOfPlayers": 2,
+        "NumOfTours": 3,
+        "NumOfPlaygrounds": 4
+      },
+      "MinNumOfPlaygrounds": 3,
+      "MinNumOfOpponents": 1
+    },
+    {
+      "Gens": [
+        [ 4, 4 ],
+        [ 0, 0 ],
+        [ 2, 2 ]
+      ],
+      "speciesParams": {
+        "NumOfPlayers": 2,
+        "NumOfTours": 3,
+        "NumOfPlaygrounds": 4
+      },
+      "MinNumOfPlaygrounds": 3,
+      "MinNumOfOpponents": 1
+    },
+    {
+      "Gens": [
+        [ 0, 0 ],
+        [ 1, 1 ],
+        [ 2, 2 ]
+      ],
+      "speciesParams": {
+        "NumOfPlayers": 2,
+        "NumOfTours": 3,
+        "NumOfPlaygrounds": 4
+      },
+      "MinNumOfPlaygrounds": 3,
+      "MinNumOfOpponents": 1
+    },
+    {
+      "Gens": [
+        [ 1, 1 ],
+        [ 2, 2 ],
+        [ 3, 3 ]
+      ],
+      "speciesParams": {
+        "NumOfPlayers": 2,
+        "NumOfTours": 3,
+        "NumOfPlaygrounds": 4
+      },
+      "MinNumOfPlaygrounds": 3,
+      "MinNumOfOpponents": 1
+    },
+    {
+      "Gens": [
+        [ 2, 2 ],
+        [ 2, 2 ],
+        [ 2, 2 ]
+      ],
+      "speciesParams": {
+        "NumOfPlayers": 2,
+        "NumOfTours": 3,
+        "NumOfPlaygrounds": 4
+      },
+      "MinNumOfPlaygrounds": 1,
+      "MinNumOfOpponents": 1
+    },
+    {
+      "Gens": [
+        [ 1, 1 ],
+        [ 4, 4 ],
+        [ 4, 4 ]
+      ],
+      "speciesParams": {
+        "NumOfPlayers": 2,
+        "NumOfTours": 3,
+        "NumOfPlaygrounds": 4
+      },
+      "MinNumOfPlaygrounds": 2,
+      "MinNumOfOpponents": 1
+    },
+    {
+      "Gens": [
+        [ 3, 3 ],
+        [ 2, 2 ],
+        [ 4, 4 ]
+      ],
+      "speciesParams": {
+        "NumOfPlayers": 2,
+        "NumOfTours": 3,
+        "NumOfPlaygrounds": 4
+      },
+      "MinNumOfPlaygrounds": 3,
+      "MinNumOfOpponents": 1
+    },
+    {
+      "Gens": [
+        [ 2, 2 ],
+        [ 0, 0 ],
+        [ 1, 1 ]
+      ],
+      "speciesParams": {
+        "NumOfPlayers": 2,
+        "NumOfTours": 3,
+        "NumOfPlaygrounds": 4
+      },
+      "MinNumOfPlaygrounds": 3,
+      "MinNumOfOpponents": 1
+    },
+    {
+      "Gens": [
+        [ 1, 1 ],
+        [ 0, 0 ],
+        [ 2, 2 ]
+      ],
+      "speciesParams": {
+        "NumOfPlayers": 2,
+        "NumOfTours": 3,
+        "NumOfPlaygrounds": 4
+      },
+      "MinNumOfPlaygrounds": 3,
+      "MinNumOfOpponents": 1
+    },
+    {
+      "Gens": [
+        [ 3, 3 ],
+        [ 1, 1 ],
+        [ 4, 4 ]
+      ],
+      "speciesParams": {
+        "NumOfPlayers": 2,
+        "NumOfTours": 3,
+        "NumOfPlaygrounds": 4
+      },
+      "MinNumOfPlaygrounds": 3,
+      "MinNumOfOpponents": 1
+    },
+    {
+      "Gens": [
+        [ 3, 3 ],
+        [ 3, 3 ],
+        [ 4, 4 ]
+      ],
+      "speciesParams": {
+        "NumOfPlayers": 2,
+        "NumOfTours": 3,
+        "NumOfPlaygrounds": 4
+      },
+      "MinNumOfPlaygrounds": 2,
+      "MinNumOfOpponents": 1
+    },
+    {
+      "Gens": [
+        [ 1, 1 ],
+        [ 2, 2 ],
+        [ 4, 4 ]
+      ],
+      "speciesParams": {
+        "NumOfPlayers": 2,
+        "NumOfTours": 3,
+        "NumOfPlaygrounds": 4
+      },
+      "MinNumOfPlaygrounds": 3,
+      "MinNumOfOpponents": 1
+    },
+    {
+      "Gens": [
+        [ 1, 1 ],
+        [ 0, 0 ],
+        [ 0, 0 ]
+      ],
+      "speciesParams": {
+        "NumOfPlayers": 2,
+        "NumOfTours": 3,
+        "NumOfPlaygrounds": 4
+      },
+      "MinNumOfPlaygrounds": 2,
+      "MinNumOfOpponents": 1
+    },
+    {
+      "Gens": [
+        [ 3, 3 ],
+        [ 2, 2 ],
+        [ 0, 0 ]
+      ],
+      "speciesParams": {
+        "NumOfPlayers": 2,
+        "NumOfTours": 3,
+        "NumOfPlaygrounds": 4
+      },
+      "MinNumOfPlaygrounds": 3,
+      "MinNumOfOpponents": 1
+    },
+    {
+      "Gens": [
+        [ 1, 1 ],
+        [ 0, 0 ],
+        [ 3, 3 ]
+      ],
+      "speciesParams": {
+        "NumOfPlayers": 2,
+        "NumOfTours": 3,
+        "NumOfPlaygrounds": 4
+      },
+      "MinNumOfPlaygrounds": 3,
+      "MinNumOfOpponents": 1
+    },
+    {
+      "Gens": [
+        [ 3, 3 ],
+        [ 3, 3 ],
+        [ 4, 4 ]
+      ],
+      "speciesParams": {
+        "NumOfPlayers": 2,
+        "NumOfTours": 3,
+        "NumOfPlaygrounds": 4
+      },
+      "MinNumOfPlaygrounds": 2,
+      "MinNumOfOpponents": 1
+    },
+    {
+      "Gens": [
+        [ 0, 0 ],
+        [ 0, 0 ],
+        [ 0, 0 ]
+      ],
+      "speciesParams": {
+        "NumOfPlayers": 2,
+        "NumOfTours": 3,
+        "NumOfPlaygrounds": 4
+      },
+      "MinNumOfPlaygrounds": 1,
+      "MinNumOfOpponents": 1
+    },
+    {
+      "Gens": [
+        [ 0, 0 ],
+        [ 4, 4 ],
+        [ 2, 2 ]
+      ],
+      "speciesParams": {
+        "NumOfPlayers": 2,
+        "NumOfTours": 3,
+        "NumOfPlaygrounds": 4
+      },
+      "MinNumOfPlaygrounds": 3,
+      "MinNumOfOpponents": 1
+    },
+    {
+      "Gens": [
+        [ 4, 4 ],
+        [ 4, 4 ],
+        [ 0, 0 ]
+      ],
+      "speciesParams": {
+        "NumOfPlayers": 2,
+        "NumOfTours": 3,
+        "NumOfPlaygrounds": 4
+      },
+      "MinNumOfPlaygrounds": 2,
+      "MinNumOfOpponents": 1
+    },
+    {
+      "Gens": [
+        [ 4, 4 ],
+        [ 2, 2 ],
+        [ 3, 3 ]
+      ],
+      "speciesParams": {
+        "NumOfPlayers": 2,
+        "NumOfTours": 3,
+        "NumOfPlaygrounds": 4
+      },
+      "MinNumOfPlaygrounds": 3,
+      "MinNumOfOpponents": 1
+    },
+    {
+      "Gens": [
+        [ 4, 4 ],
+        [ 4, 4 ],
+        [ 0, 0 ]
+      ],
+      "speciesParams": {
+        "NumOfPlayers": 2,
+        "NumOfTours": 3,
+        "NumOfPlaygrounds": 4
+      },
+      "MinNumOfPlaygrounds": 2,
+      "MinNumOfOpponents": 1
+    },
+    {
+      "Gens": [
+        [ 2, 2 ],
+        [ 4, 4 ],
+        [ 1, 1 ]
+      ],
+      "speciesParams": {
+        "NumOfPlayers": 2,
+        "NumOfTours": 3,
+        "NumOfPlaygrounds": 4
+      },
+      "MinNumOfPlaygrounds": 3,
+      "MinNumOfOpponents": 1
+    },
+    {
+      "Gens": [
+        [ 0, 0 ],
+        [ 3, 3 ],
+        [ 0, 0 ]
+      ],
+      "speciesParams": {
+        "NumOfPlayers": 2,
+        "NumOfTours": 3,
+        "NumOfPlaygrounds": 4
+      },
+      "MinNumOfPlaygrounds": 2,
+      "MinNumOfOpponents": 1
+    },
+    {
+      "Gens": [
+        [ 1, 1 ],
+        [ 2, 2 ],
+        [ 3, 3 ]
+      ],
+      "speciesParams": {
+        "NumOfPlayers": 2,
+        "NumOfTours": 3,
+        "NumOfPlaygrounds": 4
+      },
+      "MinNumOfPlaygrounds": 3,
+      "MinNumOfOpponents": 1
+    },
+    {
+      "Gens": [
+        [ 0, 0 ],
+        [ 4, 4 ],
+        [ 2, 2 ]
+      ],
+      "speciesParams": {
+        "NumOfPlayers": 2,
+        "NumOfTours": 3,
+        "NumOfPlaygrounds": 4
+      },
+      "MinNumOfPlaygrounds": 3,
+      "MinNumOfOpponents": 1
+    },
+    {
+      "Gens": [
+        [ 4, 4 ],
+        [ 1, 1 ],
+        [ 4, 4 ]
+      ],
+      "speciesParams": {
+        "NumOfPlayers": 2,
+        "NumOfTours": 3,
+        "NumOfPlaygrounds": 4
+      },
+      "MinNumOfPlaygrounds": 2,
+      "MinNumOfOpponents": 1
+    },
+    {
+      "Gens": [
+        [ 1, 1 ],
+        [ 3, 3 ],
+        [ 3, 3 ]
+      ],
+      "speciesParams": {
+        "NumOfPlayers": 2,
+        "NumOfTours": 3,
+        "NumOfPlaygrounds": 4
+      },
+      "MinNumOfPlaygrounds": 2,
+      "MinNumOfOpponents": 1
+    },
+    {
+      "Gens": [
+        [ 3, 3 ],
+        [ 0, 0 ],
+        [ 3, 3 ]
+      ],
+      "speciesParams": {
+        "NumOfPlayers": 2,
+        "NumOfTours": 3,
+        "NumOfPlaygrounds": 4
+      },
+      "MinNumOfPlaygrounds": 2,
+      "MinNumOfOpponents": 1
+    },
+    {
+      "Gens": [
+        [ 2, 2 ],
+        [ 4, 4 ],
+        [ 2, 2 ]
+      ],
+      "speciesParams": {
+        "NumOfPlayers": 2,
+        "NumOfTours": 3,
+        "NumOfPlaygrounds": 4
+      },
+      "MinNumOfPlaygrounds": 2,
+      "MinNumOfOpponents": 1
+    },
+    {
+      "Gens": [
+        [ 4, 4 ],
+        [ 2, 2 ],
+        [ 1, 1 ]
+      ],
+      "speciesParams": {
+        "NumOfPlayers": 2,
+        "NumOfTours": 3,
+        "NumOfPlaygrounds": 4
+      },
+      "MinNumOfPlaygrounds": 3,
+      "MinNumOfOpponents": 1
+    },
+    {
+      "Gens": [
+        [ 1, 1 ],
+        [ 3, 3 ],
+        [ 1, 1 ]
+      ],
+      "speciesParams": {
+        "NumOfPlayers": 2,
+        "NumOfTours": 3,
+        "NumOfPlaygrounds": 4
+      },
+      "MinNumOfPlaygrounds": 2,
+      "MinNumOfOpponents": 1
+    },
+    {
+      "Gens": [
+        [ 1, 1 ],
+        [ 2, 2 ],
+        [ 4, 4 ]
+      ],
+      "speciesParams": {
+        "NumOfPlayers": 2,
+        "NumOfTours": 3,
+        "NumOfPlaygrounds": 4
+      },
+      "MinNumOfPlaygrounds": 3,
+      "MinNumOfOpponents": 1
+    },
+    {
+      "Gens": [
+        [ 2, 2 ],
+        [ 3, 3 ],
+        [ 4, 4 ]
+      ],
+      "speciesParams": {
+        "NumOfPlayers": 2,
+        "NumOfTours": 3,
+        "NumOfPlaygrounds": 4
+      },
+      "MinNumOfPlaygrounds": 3,
+      "MinNumOfOpponents": 1
+    },
+    {
+      "Gens": [
+        [ 3, 3 ],
+        [ 0, 0 ],
+        [ 1, 1 ]
+      ],
+      "speciesParams": {
+        "NumOfPlayers": 2,
+        "NumOfTours": 3,
+        "NumOfPlaygrounds": 4
+      },
+      "MinNumOfPlaygrounds": 3,
+      "MinNumOfOpponents": 1
+    },
+    {
+      "Gens": [
+        [ 0, 0 ],
+        [ 4, 4 ],
+        [ 4, 4 ]
+      ],
+      "speciesParams": {
+        "NumOfPlayers": 2,
+        "NumOfTours": 3,
+        "NumOfPlaygrounds": 4
+      },
+      "MinNumOfPlaygrounds": 2,
+      "MinNumOfOpponents": 1
+    },
+    {
+      "Gens": [
+        [ 3, 3 ],
+        [ 2, 2 ],
+        [ 0, 0 ]
+      ],
+      "speciesParams": {
+        "NumOfPlayers": 2,
+        "NumOfTours": 3,
+        "NumOfPlaygrounds": 4
+      },
+      "MinNumOfPlaygrounds": 3,
+      "MinNumOfOpponents": 1
+    },
+    {
+      "Gens": [
+        [ 1, 1 ],
+        [ 0, 0 ],
+        [ 0, 0 ]
+      ],
+      "speciesParams": {
+        "NumOfPlayers": 2,
+        "NumOfTours": 3,
+        "NumOfPlaygrounds": 4
+      },
+      "MinNumOfPlaygrounds": 2,
+      "MinNumOfOpponents": 1
+    },
+    {
+      "Gens": [
+        [ 4, 4 ],
+        [ 3, 3 ],
+        [ 3, 3 ]
+      ],
+      "speciesParams": {
+        "NumOfPlayers": 2,
+        "NumOfTours": 3,
+        "NumOfPlaygrounds": 4
+      },
+      "MinNumOfPlaygrounds": 2,
+      "MinNumOfOpponents": 1
+    },
+    {
+      "Gens": [
+        [ 2, 2 ],
+        [ 1, 1 ],
+        [ 0, 0 ]
+      ],
+      "speciesParams": {
+        "NumOfPlayers": 2,
+        "NumOfTours": 3,
+        "NumOfPlaygrounds": 4
+      },
+      "MinNumOfPlaygrounds": 3,
+      "MinNumOfOpponents": 1
+    },
+    {
+      "Gens": [
+        [ 2, 2 ],
+        [ 2, 2 ],
+        [ 3, 3 ]
+      ],
+      "speciesParams": {
+        "NumOfPlayers": 2,
+        "NumOfTours": 3,
+        "NumOfPlaygrounds": 4
+      },
+      "MinNumOfPlaygrounds": 2,
+      "MinNumOfOpponents": 1
+    },
+    {
+      "Gens": [
+        [ 3, 3 ],
+        [ 1, 1 ],
+        [ 3, 3 ]
+      ],
+      "speciesParams": {
+        "NumOfPlayers": 2,
+        "NumOfTours": 3,
+        "NumOfPlaygrounds": 4
+      },
+      "MinNumOfPlaygrounds": 2,
+      "MinNumOfOpponents": 1
+    },
+    {
+      "Gens": [
+        [ 0, 0 ],
+        [ 1, 1 ],
+        [ 0, 0 ]
+      ],
+      "speciesParams": {
+        "NumOfPlayers": 2,
+        "NumOfTours": 3,
+        "NumOfPlaygrounds": 4
+      },
+      "MinNumOfPlaygrounds": 2,
+      "MinNumOfOpponents": 1
+    },
+    {
+      "Gens": [
+        [ 3, 3 ],
+        [ 2, 2 ],
+        [ 0, 0 ]
+      ],
+      "speciesParams": {
+        "NumOfPlayers": 2,
+        "NumOfTours": 3,
+        "NumOfPlaygrounds": 4
+      },
+      "MinNumOfPlaygrounds": 3,
+      "MinNumOfOpponents": 1
+    },
+    {
+      "Gens": [
+        [ 4, 4 ],
+        [ 1, 1 ],
+        [ 2, 2 ]
+      ],
+      "speciesParams": {
+        "NumOfPlayers": 2,
+        "NumOfTours": 3,
+        "NumOfPlaygrounds": 4
+      },
+      "MinNumOfPlaygrounds": 3,
+      "MinNumOfOpponents": 1
+    },
+    {
+      "Gens": [
+        [ 3, 3 ],
+        [ 0, 0 ],
+        [ 1, 1 ]
+      ],
+      "speciesParams": {
+        "NumOfPlayers": 2,
+        "NumOfTours": 3,
+        "NumOfPlaygrounds": 4
+      },
+      "MinNumOfPlaygrounds": 3,
+      "MinNumOfOpponents": 1
+    },
+    {
+      "Gens": [
+        [ 3, 3 ],
+        [ 0, 0 ],
+        [ 0, 0 ]
+      ],
+      "speciesParams": {
+        "NumOfPlayers": 2,
+        "NumOfTours": 3,
+        "NumOfPlaygrounds": 4
+      },
+      "MinNumOfPlaygrounds": 2,
+      "MinNumOfOpponents": 1
+    },
+    {
+      "Gens": [
+        [ 0, 0 ],
+        [ 1, 1 ],
+        [ 4, 4 ]
+      ],
+      "speciesParams": {
+        "NumOfPlayers": 2,
+        "NumOfTours": 3,
+        "NumOfPlaygrounds": 4
+      },
+      "MinNumOfPlaygrounds": 3,
+      "MinNumOfOpponents": 1
+    },
+    {
+      "Gens": [
+        [ 4, 4 ],
+        [ 2, 2 ],
+        [ 1, 1 ]
+      ],
+      "speciesParams": {
+        "NumOfPlayers": 2,
+        "NumOfTours": 3,
+        "NumOfPlaygrounds": 4
+      },
+      "MinNumOfPlaygrounds": 3,
+      "MinNumOfOpponents": 1
+    },
+    {
+      "Gens": [
+        [ 2, 2 ],
+        [ 4, 4 ],
+        [ 4, 4 ]
+      ],
+      "speciesParams": {
+        "NumOfPlayers": 2,
+        "NumOfTours": 3,
+        "NumOfPlaygrounds": 4
+      },
+      "MinNumOfPlaygrounds": 2,
+      "MinNumOfOpponents": 1
+    },
+    {
+      "Gens": [
+        [ 3, 3 ],
+        [ 3, 3 ],
+        [ 3, 3 ]
+      ],
+      "speciesParams": {
+        "NumOfPlayers": 2,
+        "NumOfTours": 3,
+        "NumOfPlaygrounds": 4
+      },
+      "MinNumOfPlaygrounds": 1,
+      "MinNumOfOpponents": 1
+    },
+    {
+      "Gens": [
+        [ 3, 3 ],
+        [ 2, 2 ],
+        [ 2, 2 ]
+      ],
+      "speciesParams": {
+        "NumOfPlayers": 2,
+        "NumOfTours": 3,
+        "NumOfPlaygrounds": 4
+      },
+      "MinNumOfPlaygrounds": 2,
+      "MinNumOfOpponents": 1
+    },
+    {
+      "Gens": [
+        [ 4, 4 ],
+        [ 3, 3 ],
+        [ 2, 2 ]
+      ],
+      "speciesParams": {
+        "NumOfPlayers": 2,
+        "NumOfTours": 3,
+        "NumOfPlaygrounds": 4
+      },
+      "MinNumOfPlaygrounds": 3,
+      "MinNumOfOpponents": 1
+    },
+    {
+      "Gens": [
+        [ 0, 0 ],
+        [ 2, 2 ],
+        [ 0, 0 ]
+      ],
+      "speciesParams": {
+        "NumOfPlayers": 2,
+        "NumOfTours": 3,
+        "NumOfPlaygrounds": 4
+      },
+      "MinNumOfPlaygrounds": 2,
+      "MinNumOfOpponents": 1
+    },
+    {
+      "Gens": [
+        [ 1, 1 ],
+        [ 2, 2 ],
+        [ 2, 2 ]
+      ],
+      "speciesParams": {
+        "NumOfPlayers": 2,
+        "NumOfTours": 3,
+        "NumOfPlaygrounds": 4
+      },
+      "MinNumOfPlaygrounds": 2,
+      "MinNumOfOpponents": 1
+    },
+    {
+      "Gens": [
+        [ 4, 4 ],
+        [ 2, 2 ],
+        [ 4, 4 ]
+      ],
+      "speciesParams": {
+        "NumOfPlayers": 2,
+        "NumOfTours": 3,
+        "NumOfPlaygrounds": 4
+      },
+      "MinNumOfPlaygrounds": 2,
+      "MinNumOfOpponents": 1
+    },
+    {
+      "Gens": [
+        [ 1, 1 ],
+        [ 4, 4 ],
+        [ 2, 2 ]
+      ],
+      "speciesParams": {
+        "NumOfPlayers": 2,
+        "NumOfTours": 3,
+        "NumOfPlaygrounds": 4
+      },
+      "MinNumOfPlaygrounds": 3,
+      "MinNumOfOpponents": 1
+    },
+    {
+      "Gens": [
+        [ 0, 0 ],
+        [ 4, 4 ],
+        [ 3, 3 ]
+      ],
+      "speciesParams": {
+        "NumOfPlayers": 2,
+        "NumOfTours": 3,
+        "NumOfPlaygrounds": 4
+      },
+      "MinNumOfPlaygrounds": 3,
+      "MinNumOfOpponents": 1
+    },
+    {
+      "Gens": [
+        [ 1, 1 ],
+        [ 3, 3 ],
+        [ 3, 3 ]
+      ],
+      "speciesParams": {
+        "NumOfPlayers": 2,
+        "NumOfTours": 3,
+        "NumOfPlaygrounds": 4
+      },
+      "MinNumOfPlaygrounds": 2,
+      "MinNumOfOpponents": 1
+    },
+    {
+      "Gens": [
+        [ 0, 0 ],
+        [ 2, 2 ],
+        [ 0, 0 ]
+      ],
+      "speciesParams": {
+        "NumOfPlayers": 2,
+        "NumOfTours": 3,
+        "NumOfPlaygrounds": 4
+      },
+      "MinNumOfPlaygrounds": 2,
+      "MinNumOfOpponents": 1
+    },
+    {
+      "Gens": [
+        [ 4, 4 ],
+        [ 4, 4 ],
+        [ 2, 2 ]
+      ],
+      "speciesParams": {
+        "NumOfPlayers": 2,
+        "NumOfTours": 3,
+        "NumOfPlaygrounds": 4
+      },
+      "MinNumOfPlaygrounds": 2,
+      "MinNumOfOpponents": 1
+    },
+    {
+      "Gens": [
+        [ 2, 2 ],
+        [ 1, 1 ],
+        [ 2, 2 ]
+      ],
+      "speciesParams": {
+        "NumOfPlayers": 2,
+        "NumOfTours": 3,
+        "NumOfPlaygrounds": 4
+      },
+      "MinNumOfPlaygrounds": 2,
+      "MinNumOfOpponents": 1
+    },
+    {
+      "Gens": [
+        [ 1, 1 ],
+        [ 3, 3 ],
+        [ 2, 2 ]
+      ],
+      "speciesParams": {
+        "NumOfPlayers": 2,
+        "NumOfTours": 3,
+        "NumOfPlaygrounds": 4
+      },
+      "MinNumOfPlaygrounds": 3,
+      "MinNumOfOpponents": 1
+    },
+    {
+      "Gens": [
+        [ 0, 0 ],
+        [ 0, 0 ],
+        [ 0, 0 ]
+      ],
+      "speciesParams": {
+        "NumOfPlayers": 2,
+        "NumOfTours": 3,
+        "NumOfPlaygrounds": 4
+      },
+      "MinNumOfPlaygrounds": 1,
+      "MinNumOfOpponents": 1
+    },
+    {
+      "Gens": [
+        [ 3, 3 ],
+        [ 2, 2 ],
+        [ 0, 0 ]
+      ],
+      "speciesParams": {
+        "NumOfPlayers": 2,
+        "NumOfTours": 3,
+        "NumOfPlaygrounds": 4
+      },
+      "MinNumOfPlaygrounds": 3,
+      "MinNumOfOpponents": 1
+    },
+    {
+      "Gens": [
+        [ 0, 0 ],
+        [ 4, 4 ],
+        [ 2, 2 ]
+      ],
+      "speciesParams": {
+        "NumOfPlayers": 2,
+        "NumOfTours": 3,
+        "NumOfPlaygrounds": 4
+      },
+      "MinNumOfPlaygrounds": 3,
+      "MinNumOfOpponents": 1
+    },
+    {
+      "Gens": [
+        [ 4, 4 ],
+        [ 4, 4 ],
+        [ 1, 1 ]
+      ],
+      "speciesParams": {
+        "NumOfPlayers": 2,
+        "NumOfTours": 3,
+        "NumOfPlaygrounds": 4
+      },
+      "MinNumOfPlaygrounds": 2,
+      "MinNumOfOpponents": 1
+    },
+    {
+      "Gens": [
+        [ 3, 3 ],
+        [ 4, 4 ],
+        [ 2, 2 ]
+      ],
+      "speciesParams": {
+        "NumOfPlayers": 2,
+        "NumOfTours": 3,
+        "NumOfPlaygrounds": 4
+      },
+      "MinNumOfPlaygrounds": 3,
+      "MinNumOfOpponents": 1
+    },
+    {
+      "Gens": [
+        [ 0, 0 ],
+        [ 0, 0 ],
+        [ 1, 1 ]
+      ],
+      "speciesParams": {
+        "NumOfPlayers": 2,
+        "NumOfTours": 3,
+        "NumOfPlaygrounds": 4
+      },
+      "MinNumOfPlaygrounds": 2,
+      "MinNumOfOpponents": 1
+    },
+    {
+      "Gens": [
+        [ 0, 0 ],
+        [ 2, 2 ],
+        [ 3, 3 ]
+      ],
+      "speciesParams": {
+        "NumOfPlayers": 2,
+        "NumOfTours": 3,
+        "NumOfPlaygrounds": 4
+      },
+      "MinNumOfPlaygrounds": 3,
+      "MinNumOfOpponents": 1
+    },
+    {
+      "Gens": [
+        [ 3, 3 ],
+        [ 4, 4 ],
+        [ 1, 1 ]
+      ],
+      "speciesParams": {
+        "NumOfPlayers": 2,
+        "NumOfTours": 3,
+        "NumOfPlaygrounds": 4
+      },
+      "MinNumOfPlaygrounds": 3,
+      "MinNumOfOpponents": 1
+    },
+    {
+      "Gens": [
+        [ 1, 1 ],
+        [ 0, 0 ],
+        [ 4, 4 ]
+      ],
+      "speciesParams": {
+        "NumOfPlayers": 2,
+        "NumOfTours": 3,
+        "NumOfPlaygrounds": 4
+      },
+      "MinNumOfPlaygrounds": 3,
+      "MinNumOfOpponents": 1
+    },
+    {
+      "Gens": [
+        [ 0, 0 ],
+        [ 2, 2 ],
+        [ 2, 2 ]
+      ],
+      "speciesParams": {
+        "NumOfPlayers": 2,
+        "NumOfTours": 3,
+        "NumOfPlaygrounds": 4
+      },
+      "MinNumOfPlaygrounds": 2,
+      "MinNumOfOpponents": 1
+    },
+    {
+      "Gens": [
+        [ 1, 1 ],
+        [ 0, 0 ],
+        [ 1, 1 ]
+      ],
+      "speciesParams": {
+        "NumOfPlayers": 2,
+        "NumOfTours": 3,
+        "NumOfPlaygrounds": 4
+      },
+      "MinNumOfPlaygrounds": 2,
+      "MinNumOfOpponents": 1
+    },
+    {
+      "Gens": [
+        [ 3, 3 ],
+        [ 2, 2 ],
+        [ 2, 2 ]
+      ],
+      "speciesParams": {
+        "NumOfPlayers": 2,
+        "NumOfTours": 3,
+        "NumOfPlaygrounds": 4
+      },
+      "MinNumOfPlaygrounds": 2,
+      "MinNumOfOpponents": 1
+    },
+    {
+      "Gens": [
+        [ 1, 1 ],
+        [ 1, 1 ],
+        [ 0, 0 ]
+      ],
+      "speciesParams": {
+        "NumOfPlayers": 2,
+        "NumOfTours": 3,
+        "NumOfPlaygrounds": 4
+      },
+      "MinNumOfPlaygrounds": 2,
+      "MinNumOfOpponents": 1
+    },
+    {
+      "Gens": [
+        [ 0, 0 ],
+        [ 0, 0 ],
+        [ 3, 3 ]
+      ],
+      "speciesParams": {
+        "NumOfPlayers": 2,
+        "NumOfTours": 3,
+        "NumOfPlaygrounds": 4
+      },
+      "MinNumOfPlaygrounds": 2,
+      "MinNumOfOpponents": 1
+    },
+    {
+      "Gens": [
+        [ 1, 1 ],
+        [ 0, 0 ],
+        [ 2, 2 ]
+      ],
+      "speciesParams": {
+        "NumOfPlayers": 2,
+        "NumOfTours": 3,
+        "NumOfPlaygrounds": 4
+      },
+      "MinNumOfPlaygrounds": 3,
+      "MinNumOfOpponents": 1
+    },
+    {
+      "Gens": [
+        [ 4, 4 ],
+        [ 0, 0 ],
+        [ 0, 0 ]
+      ],
+      "speciesParams": {
+        "NumOfPlayers": 2,
+        "NumOfTours": 3,
+        "NumOfPlaygrounds": 4
+      },
+      "MinNumOfPlaygrounds": 2,
+      "MinNumOfOpponents": 1
+    },
+    {
+      "Gens": [
+        [ 1, 1 ],
+        [ 4, 4 ],
+        [ 0, 0 ]
+      ],
+      "speciesParams": {
+        "NumOfPlayers": 2,
+        "NumOfTours": 3,
+        "NumOfPlaygrounds": 4
+      },
+      "MinNumOfPlaygrounds": 3,
+      "MinNumOfOpponents": 1
+    },
+    {
+      "Gens": [
+        [ 2, 2 ],
+        [ 2, 2 ],
+        [ 0, 0 ]
+      ],
+      "speciesParams": {
+        "NumOfPlayers": 2,
+        "NumOfTours": 3,
+        "NumOfPlaygrounds": 4
+      },
+      "MinNumOfPlaygrounds": 2,
+      "MinNumOfOpponents": 1
+    },
+    {
+      "Gens": [
+        [ 0, 0 ],
+        [ 3, 3 ],
+        [ 3, 3 ]
+      ],
+      "speciesParams": {
+        "NumOfPlayers": 2,
+        "NumOfTours": 3,
+        "NumOfPlaygrounds": 4
+      },
+      "MinNumOfPlaygrounds": 2,
+      "MinNumOfOpponents": 1
+    },
+    {
+      "Gens": [
+        [ 2, 2 ],
+        [ 1, 1 ],
+        [ 4, 4 ]
+      ],
+      "speciesParams": {
+        "NumOfPlayers": 2,
+        "NumOfTours": 3,
+        "NumOfPlaygrounds": 4
+      },
+      "MinNumOfPlaygrounds": 3,
+      "MinNumOfOpponents": 1
+    },
+    {
+      "Gens": [
+        [ 0, 0 ],
+        [ 1, 1 ],
+        [ 4, 4 ]
+      ],
+      "speciesParams": {
+        "NumOfPlayers": 2,
+        "NumOfTours": 3,
+        "NumOfPlaygrounds": 4
+      },
+      "MinNumOfPlaygrounds": 3,
+      "MinNumOfOpponents": 1
+    },
+    {
+      "Gens": [
+        [ 0, 0 ],
+        [ 4, 4 ],
+        [ 2, 2 ]
+      ],
+      "speciesParams": {
+        "NumOfPlayers": 2,
+        "NumOfTours": 3,
+        "NumOfPlaygrounds": 4
+      },
+      "MinNumOfPlaygrounds": 3,
+      "MinNumOfOpponents": 1
+    },
+    {
+      "Gens": [
+        [ 3, 3 ],
+        [ 0, 0 ],
+        [ 3, 3 ]
+      ],
+      "speciesParams": {
+        "NumOfPlayers": 2,
+        "NumOfTours": 3,
+        "NumOfPlaygrounds": 4
+      },
+      "MinNumOfPlaygrounds": 2,
+      "MinNumOfOpponents": 1
+    },
+    {
+      "Gens": [
+        [ 1, 1 ],
+        [ 0, 0 ],
+        [ 4, 4 ]
+      ],
+      "speciesParams": {
+        "NumOfPlayers": 2,
+        "NumOfTours": 3,
+        "NumOfPlaygrounds": 4
+      },
+      "MinNumOfPlaygrounds": 3,
+      "MinNumOfOpponents": 1
+    },
+    {
+      "Gens": [
+        [ 0, 0 ],
+        [ 2, 2 ],
+        [ 3, 3 ]
+      ],
+      "speciesParams": {
+        "NumOfPlayers": 2,
+        "NumOfTours": 3,
+        "NumOfPlaygrounds": 4
+      },
+      "MinNumOfPlaygrounds": 3,
+      "MinNumOfOpponents": 1
+    },
+    {
+      "Gens": [
+        [ 0, 0 ],
+        [ 2, 2 ],
+        [ 0, 0 ]
+      ],
+      "speciesParams": {
+        "NumOfPlayers": 2,
+        "NumOfTours": 3,
+        "NumOfPlaygrounds": 4
+      },
+      "MinNumOfPlaygrounds": 2,
+      "MinNumOfOpponents": 1
+    },
+    {
+      "Gens": [
+        [ 2, 2 ],
+        [ 0, 0 ],
+        [ 3, 3 ]
+      ],
+      "speciesParams": {
+        "NumOfPlayers": 2,
+        "NumOfTours": 3,
+        "NumOfPlaygrounds": 4
+      },
+      "MinNumOfPlaygrounds": 3,
+      "MinNumOfOpponents": 1
+    },
+    {
+      "Gens": [
+        [ 3, 3 ],
+        [ 4, 4 ],
+        [ 1, 1 ]
+      ],
+      "speciesParams": {
+        "NumOfPlayers": 2,
+        "NumOfTours": 3,
+        "NumOfPlaygrounds": 4
+      },
+      "MinNumOfPlaygrounds": 3,
+      "MinNumOfOpponents": 1
+    },
+    {
+      "Gens": [
+        [ 3, 3 ],
+        [ 3, 3 ],
+        [ 2, 2 ]
+      ],
+      "speciesParams": {
+        "NumOfPlayers": 2,
+        "NumOfTours": 3,
+        "NumOfPlaygrounds": 4
+      },
+      "MinNumOfPlaygrounds": 2,
+      "MinNumOfOpponents": 1
+    },
+    {
+      "Gens": [
+        [ 4, 4 ],
+        [ 0, 0 ],
+        [ 3, 3 ]
+      ],
+      "speciesParams": {
+        "NumOfPlayers": 2,
+        "NumOfTours": 3,
+        "NumOfPlaygrounds": 4
+      },
+      "MinNumOfPlaygrounds": 3,
+      "MinNumOfOpponents": 1
+    },
+    {
+      "Gens": [
+        [ 2, 2 ],
+        [ 1, 1 ],
+        [ 1, 1 ]
+      ],
+      "speciesParams": {
+        "NumOfPlayers": 2,
+        "NumOfTours": 3,
+        "NumOfPlaygrounds": 4
+      },
+      "MinNumOfPlaygrounds": 2,
+      "MinNumOfOpponents": 1
+    },
+    {
+      "Gens": [
+        [ 3, 3 ],
+        [ 4, 4 ],
+        [ 4, 4 ]
+      ],
+      "speciesParams": {
+        "NumOfPlayers": 2,
+        "NumOfTours": 3,
+        "NumOfPlaygrounds": 4
+      },
+      "MinNumOfPlaygrounds": 2,
+      "MinNumOfOpponents": 1
+    },
+    {
+      "Gens": [
+        [ 2, 2 ],
+        [ 4, 4 ],
+        [ 4, 4 ]
+      ],
+      "speciesParams": {
+        "NumOfPlayers": 2,
+        "NumOfTours": 3,
+        "NumOfPlaygrounds": 4
+      },
+      "MinNumOfPlaygrounds": 2,
+      "MinNumOfOpponents": 1
+    },
+    {
+      "Gens": [
+        [ 1, 1 ],
+        [ 4, 4 ],
+        [ 3, 3 ]
+      ],
+      "speciesParams": {
+        "NumOfPlayers": 2,
+        "NumOfTours": 3,
+        "NumOfPlaygrounds": 4
+      },
+      "MinNumOfPlaygrounds": 3,
+      "MinNumOfOpponents": 1
+    },
+    {
+      "Gens": [
+        [ 0, 0 ],
+        [ 1, 1 ],
+        [ 3, 3 ]
+      ],
+      "speciesParams": {
+        "NumOfPlayers": 2,
+        "NumOfTours": 3,
+        "NumOfPlaygrounds": 4
+      },
+      "MinNumOfPlaygrounds": 3,
+      "MinNumOfOpponents": 1
+    },
+    {
+      "Gens": [
+        [ 0, 0 ],
+        [ 2, 2 ],
+        [ 1, 1 ]
+      ],
+      "speciesParams": {
+        "NumOfPlayers": 2,
+        "NumOfTours": 3,
+        "NumOfPlaygrounds": 4
+      },
+      "MinNumOfPlaygrounds": 3,
+      "MinNumOfOpponents": 1
+    },
+    {
+      "Gens": [
+        [ 1, 1 ],
+        [ 2, 2 ],
+        [ 3, 3 ]
+      ],
+      "speciesParams": {
+        "NumOfPlayers": 2,
+        "NumOfTours": 3,
+        "NumOfPlaygrounds": 4
+      },
+      "MinNumOfPlaygrounds": 3,
+      "MinNumOfOpponents": 1
+    },
+    {
+      "Gens": [
+        [ 4, 4 ],
+        [ 1, 1 ],
+        [ 4, 4 ]
+      ],
+      "speciesParams": {
+        "NumOfPlayers": 2,
+        "NumOfTours": 3,
+        "NumOfPlaygrounds": 4
+      },
+      "MinNumOfPlaygrounds": 2,
+      "MinNumOfOpponents": 1
+    },
+    {
+      "Gens": [
+        [ 2, 2 ],
+        [ 2, 2 ],
+        [ 2, 2 ]
+      ],
+      "speciesParams": {
+        "NumOfPlayers": 2,
+        "NumOfTours": 3,
+        "NumOfPlaygrounds": 4
+      },
+      "MinNumOfPlaygrounds": 1,
+      "MinNumOfOpponents": 1
+    },
+    {
+      "Gens": [
+        [ 4, 4 ],
+        [ 4, 4 ],
+        [ 1, 1 ]
+      ],
+      "speciesParams": {
+        "NumOfPlayers": 2,
+        "NumOfTours": 3,
+        "NumOfPlaygrounds": 4
+      },
+      "MinNumOfPlaygrounds": 2,
+      "MinNumOfOpponents": 1
+    },
+    {
+      "Gens": [
+        [ 4, 4 ],
+        [ 3, 3 ],
+        [ 2, 2 ]
+      ],
+      "speciesParams": {
+        "NumOfPlayers": 2,
+        "NumOfTours": 3,
+        "NumOfPlaygrounds": 4
+      },
+      "MinNumOfPlaygrounds": 3,
+      "MinNumOfOpponents": 1
+    },
+    {
+      "Gens": [
+        [ 3, 3 ],
+        [ 0, 0 ],
+        [ 0, 0 ]
+      ],
+      "speciesParams": {
+        "NumOfPlayers": 2,
+        "NumOfTours": 3,
+        "NumOfPlaygrounds": 4
+      },
+      "MinNumOfPlaygrounds": 2,
+      "MinNumOfOpponents": 1
+    },
+    {
+      "Gens": [
+        [ 1, 1 ],
+        [ 3, 3 ],
+        [ 0, 0 ]
+      ],
+      "speciesParams": {
+        "NumOfPlayers": 2,
+        "NumOfTours": 3,
+        "NumOfPlaygrounds": 4
+      },
+      "MinNumOfPlaygrounds": 3,
+      "MinNumOfOpponents": 1
+    },
+    {
+      "Gens": [
+        [ 2, 2 ],
+        [ 1, 1 ],
+        [ 4, 4 ]
+      ],
+      "speciesParams": {
+        "NumOfPlayers": 2,
+        "NumOfTours": 3,
+        "NumOfPlaygrounds": 4
+      },
+      "MinNumOfPlaygrounds": 3,
+      "MinNumOfOpponents": 1
+    },
+    {
+      "Gens": [
+        [ 1, 1 ],
+        [ 4, 4 ],
+        [ 2, 2 ]
+      ],
+      "speciesParams": {
+        "NumOfPlayers": 2,
+        "NumOfTours": 3,
+        "NumOfPlaygrounds": 4
+      },
+      "MinNumOfPlaygrounds": 3,
+      "MinNumOfOpponents": 1
+    },
+    {
+      "Gens": [
+        [ 3, 3 ],
+        [ 1, 1 ],
+        [ 0, 0 ]
+      ],
+      "speciesParams": {
+        "NumOfPlayers": 2,
+        "NumOfTours": 3,
+        "NumOfPlaygrounds": 4
+      },
+      "MinNumOfPlaygrounds": 3,
+      "MinNumOfOpponents": 1
+    },
+    {
+      "Gens": [
+        [ 1, 1 ],
+        [ 3, 3 ],
+        [ 1, 1 ]
+      ],
+      "speciesParams": {
+        "NumOfPlayers": 2,
+        "NumOfTours": 3,
+        "NumOfPlaygrounds": 4
+      },
+      "MinNumOfPlaygrounds": 2,
+      "MinNumOfOpponents": 1
+    },
+    {
+      "Gens": [
+        [ 4, 4 ],
+        [ 4, 4 ],
+        [ 4, 4 ]
+      ],
+      "speciesParams": {
+        "NumOfPlayers": 2,
+        "NumOfTours": 3,
+        "NumOfPlaygrounds": 4
+      },
+      "MinNumOfPlaygrounds": 1,
+      "MinNumOfOpponents": 1
+    },
+    {
+      "Gens": [
+        [ 3, 3 ],
+        [ 2, 2 ],
+        [ 3, 3 ]
+      ],
+      "speciesParams": {
+        "NumOfPlayers": 2,
+        "NumOfTours": 3,
+        "NumOfPlaygrounds": 4
+      },
+      "MinNumOfPlaygrounds": 2,
+      "MinNumOfOpponents": 1
+    },
+    {
+      "Gens": [
+        [ 3, 3 ],
+        [ 4, 4 ],
+        [ 3, 3 ]
+      ],
+      "speciesParams": {
+        "NumOfPlayers": 2,
+        "NumOfTours": 3,
+        "NumOfPlaygrounds": 4
+      },
+      "MinNumOfPlaygrounds": 2,
+      "MinNumOfOpponents": 1
+    },
+    {
+      "Gens": [
+        [ 3, 3 ],
+        [ 2, 2 ],
+        [ 0, 0 ]
+      ],
+      "speciesParams": {
+        "NumOfPlayers": 2,
+        "NumOfTours": 3,
+        "NumOfPlaygrounds": 4
+      },
+      "MinNumOfPlaygrounds": 3,
+      "MinNumOfOpponents": 1
+    },
+    {
+      "Gens": [
+        [ 0, 0 ],
+        [ 2, 2 ],
+        [ 0, 0 ]
+      ],
+      "speciesParams": {
+        "NumOfPlayers": 2,
+        "NumOfTours": 3,
+        "NumOfPlaygrounds": 4
+      },
+      "MinNumOfPlaygrounds": 2,
+      "MinNumOfOpponents": 1
+    },
+    {
+      "Gens": [
+        [ 0, 0 ],
+        [ 2, 2 ],
+        [ 0, 0 ]
+      ],
+      "speciesParams": {
+        "NumOfPlayers": 2,
+        "NumOfTours": 3,
+        "NumOfPlaygrounds": 4
+      },
+      "MinNumOfPlaygrounds": 2,
+      "MinNumOfOpponents": 1
+    },
+    {
+      "Gens": [
+        [ 0, 0 ],
+        [ 0, 0 ],
+        [ 0, 0 ]
+      ],
+      "speciesParams": {
+        "NumOfPlayers": 2,
+        "NumOfTours": 3,
+        "NumOfPlaygrounds": 4
+      },
+      "MinNumOfPlaygrounds": 1,
+      "MinNumOfOpponents": 1
+    },
+    {
+      "Gens": [
+        [ 4, 4 ],
+        [ 3, 3 ],
+        [ 1, 1 ]
+      ],
+      "speciesParams": {
+        "NumOfPlayers": 2,
+        "NumOfTours": 3,
+        "NumOfPlaygrounds": 4
+      },
+      "MinNumOfPlaygrounds": 3,
+      "MinNumOfOpponents": 1
+    },
+    {
+      "Gens": [
+        [ 2, 2 ],
+        [ 0, 0 ],
+        [ 0, 0 ]
+      ],
+      "speciesParams": {
+        "NumOfPlayers": 2,
+        "NumOfTours": 3,
+        "NumOfPlaygrounds": 4
+      },
+      "MinNumOfPlaygrounds": 2,
+      "MinNumOfOpponents": 1
+    },
+    {
+      "Gens": [
+        [ 4, 4 ],
+        [ 0, 0 ],
+        [ 2, 2 ]
+      ],
+      "speciesParams": {
+        "NumOfPlayers": 2,
+        "NumOfTours": 3,
+        "NumOfPlaygrounds": 4
+      },
+      "MinNumOfPlaygrounds": 3,
+      "MinNumOfOpponents": 1
+    },
+    {
+      "Gens": [
+        [ 4, 4 ],
+        [ 0, 0 ],
+        [ 2, 2 ]
+      ],
+      "speciesParams": {
+        "NumOfPlayers": 2,
+        "NumOfTours": 3,
+        "NumOfPlaygrounds": 4
+      },
+      "MinNumOfPlaygrounds": 3,
+      "MinNumOfOpponents": 1
+    },
+    {
+      "Gens": [
+        [ 0, 0 ],
+        [ 0, 0 ],
+        [ 0, 0 ]
+      ],
+      "speciesParams": {
+        "NumOfPlayers": 2,
+        "NumOfTours": 3,
+        "NumOfPlaygrounds": 4
+      },
+      "MinNumOfPlaygrounds": 1,
+      "MinNumOfOpponents": 1
+    },
+    {
+      "Gens": [
+        [ 1, 1 ],
+        [ 3, 3 ],
+        [ 4, 4 ]
+      ],
+      "speciesParams": {
+        "NumOfPlayers": 2,
+        "NumOfTours": 3,
+        "NumOfPlaygrounds": 4
+      },
+      "MinNumOfPlaygrounds": 3,
+      "MinNumOfOpponents": 1
+    },
+    {
+      "Gens": [
+        [ 2, 2 ],
+        [ 4, 4 ],
+        [ 3, 3 ]
+      ],
+      "speciesParams": {
+        "NumOfPlayers": 2,
+        "NumOfTours": 3,
+        "NumOfPlaygrounds": 4
+      },
+      "MinNumOfPlaygrounds": 3,
+      "MinNumOfOpponents": 1
+    },
+    {
+      "Gens": [
+        [ 1, 1 ],
+        [ 3, 3 ],
+        [ 1, 1 ]
+      ],
+      "speciesParams": {
+        "NumOfPlayers": 2,
+        "NumOfTours": 3,
+        "NumOfPlaygrounds": 4
+      },
+      "MinNumOfPlaygrounds": 2,
+      "MinNumOfOpponents": 1
+    },
+    {
+      "Gens": [
+        [ 1, 1 ],
+        [ 3, 3 ],
+        [ 1, 1 ]
+      ],
+      "speciesParams": {
+        "NumOfPlayers": 2,
+        "NumOfTours": 3,
+        "NumOfPlaygrounds": 4
+      },
+      "MinNumOfPlaygrounds": 2,
+      "MinNumOfOpponents": 1
+    },
+    {
+      "Gens": [
+        [ 1, 1 ],
+        [ 0, 0 ],
+        [ 1, 1 ]
+      ],
+      "speciesParams": {
+        "NumOfPlayers": 2,
+        "NumOfTours": 3,
+        "NumOfPlaygrounds": 4
+      },
+      "MinNumOfPlaygrounds": 2,
+      "MinNumOfOpponents": 1
+    },
+    {
+      "Gens": [
+        [ 1, 1 ],
+        [ 4, 4 ],
+        [ 4, 4 ]
+      ],
+      "speciesParams": {
+        "NumOfPlayers": 2,
+        "NumOfTours": 3,
+        "NumOfPlaygrounds": 4
+      },
+      "MinNumOfPlaygrounds": 2,
+      "MinNumOfOpponents": 1
+    },
+    {
+      "Gens": [
+        [ 0, 0 ],
+        [ 2, 2 ],
+        [ 1, 1 ]
+      ],
+      "speciesParams": {
+        "NumOfPlayers": 2,
+        "NumOfTours": 3,
+        "NumOfPlaygrounds": 4
+      },
+      "MinNumOfPlaygrounds": 3,
+      "MinNumOfOpponents": 1
+    },
+    {
+      "Gens": [
+        [ 0, 0 ],
+        [ 0, 0 ],
+        [ 1, 1 ]
+      ],
+      "speciesParams": {
+        "NumOfPlayers": 2,
+        "NumOfTours": 3,
+        "NumOfPlaygrounds": 4
+      },
+      "MinNumOfPlaygrounds": 2,
+      "MinNumOfOpponents": 1
+    },
+    {
+      "Gens": [
+        [ 1, 1 ],
+        [ 2, 2 ],
+        [ 3, 3 ]
+      ],
+      "speciesParams": {
+        "NumOfPlayers": 2,
+        "NumOfTours": 3,
+        "NumOfPlaygrounds": 4
+      },
+      "MinNumOfPlaygrounds": 3,
+      "MinNumOfOpponents": 1
+    },
+    {
+      "Gens": [
+        [ 4, 4 ],
+        [ 3, 3 ],
+        [ 3, 3 ]
+      ],
+      "speciesParams": {
+        "NumOfPlayers": 2,
+        "NumOfTours": 3,
+        "NumOfPlaygrounds": 4
+      },
+      "MinNumOfPlaygrounds": 2,
+      "MinNumOfOpponents": 1
+    },
+    {
+      "Gens": [
+        [ 2, 2 ],
+        [ 0, 0 ],
+        [ 0, 0 ]
+      ],
+      "speciesParams": {
+        "NumOfPlayers": 2,
+        "NumOfTours": 3,
+        "NumOfPlaygrounds": 4
+      },
+      "MinNumOfPlaygrounds": 2,
+      "MinNumOfOpponents": 1
+    },
+    {
+      "Gens": [
+        [ 1, 1 ],
+        [ 3, 3 ],
+        [ 2, 2 ]
+      ],
+      "speciesParams": {
+        "NumOfPlayers": 2,
+        "NumOfTours": 3,
+        "NumOfPlaygrounds": 4
+      },
+      "MinNumOfPlaygrounds": 3,
+      "MinNumOfOpponents": 1
+    },
+    {
+      "Gens": [
+        [ 4, 4 ],
+        [ 4, 4 ],
+        [ 1, 1 ]
+      ],
+      "speciesParams": {
+        "NumOfPlayers": 2,
+        "NumOfTours": 3,
+        "NumOfPlaygrounds": 4
+      },
+      "MinNumOfPlaygrounds": 2,
+      "MinNumOfOpponents": 1
+    },
+    {
+      "Gens": [
+        [ 2, 2 ],
+        [ 1, 1 ],
+        [ 4, 4 ]
+      ],
+      "speciesParams": {
+        "NumOfPlayers": 2,
+        "NumOfTours": 3,
+        "NumOfPlaygrounds": 4
+      },
+      "MinNumOfPlaygrounds": 3,
+      "MinNumOfOpponents": 1
+    },
+    {
+      "Gens": [
+        [ 0, 0 ],
+        [ 4, 4 ],
+        [ 4, 4 ]
+      ],
+      "speciesParams": {
+        "NumOfPlayers": 2,
+        "NumOfTours": 3,
+        "NumOfPlaygrounds": 4
+      },
+      "MinNumOfPlaygrounds": 2,
+      "MinNumOfOpponents": 1
+    },
+    {
+      "Gens": [
+        [ 0, 0 ],
+        [ 4, 4 ],
+        [ 4, 4 ]
+      ],
+      "speciesParams": {
+        "NumOfPlayers": 2,
+        "NumOfTours": 3,
+        "NumOfPlaygrounds": 4
+      },
+      "MinNumOfPlaygrounds": 2,
+      "MinNumOfOpponents": 1
+    },
+    {
+      "Gens": [
+        [ 0, 0 ],
+        [ 1, 1 ],
+        [ 1, 1 ]
+      ],
+      "speciesParams": {
+        "NumOfPlayers": 2,
+        "NumOfTours": 3,
+        "NumOfPlaygrounds": 4
+      },
+      "MinNumOfPlaygrounds": 2,
+      "MinNumOfOpponents": 1
+    },
+    {
+      "Gens": [
+        [ 4, 4 ],
+        [ 0, 0 ],
+        [ 1, 1 ]
+      ],
+      "speciesParams": {
+        "NumOfPlayers": 2,
+        "NumOfTours": 3,
+        "NumOfPlaygrounds": 4
+      },
+      "MinNumOfPlaygrounds": 3,
+      "MinNumOfOpponents": 1
+    },
+    {
+      "Gens": [
+        [ 2, 2 ],
+        [ 0, 0 ],
+        [ 2, 2 ]
+      ],
+      "speciesParams": {
+        "NumOfPlayers": 2,
+        "NumOfTours": 3,
+        "NumOfPlaygrounds": 4
+      },
+      "MinNumOfPlaygrounds": 2,
+      "MinNumOfOpponents": 1
+    },
+    {
+      "Gens": [
+        [ 0, 0 ],
+        [ 3, 3 ],
+        [ 3, 3 ]
+      ],
+      "speciesParams": {
+        "NumOfPlayers": 2,
+        "NumOfTours": 3,
+        "NumOfPlaygrounds": 4
+      },
+      "MinNumOfPlaygrounds": 2,
+      "MinNumOfOpponents": 1
+    },
+    {
+      "Gens": [
+        [ 3, 3 ],
+        [ 4, 4 ],
+        [ 0, 0 ]
+      ],
+      "speciesParams": {
+        "NumOfPlayers": 2,
+        "NumOfTours": 3,
+        "NumOfPlaygrounds": 4
+      },
+      "MinNumOfPlaygrounds": 3,
+      "MinNumOfOpponents": 1
+    },
+    {
+      "Gens": [
+        [ 2, 2 ],
+        [ 4, 4 ],
+        [ 4, 4 ]
+      ],
+      "speciesParams": {
+        "NumOfPlayers": 2,
+        "NumOfTours": 3,
+        "NumOfPlaygrounds": 4
+      },
+      "MinNumOfPlaygrounds": 2,
+      "MinNumOfOpponents": 1
+    },
+    {
+      "Gens": [
+        [ 2, 2 ],
+        [ 2, 2 ],
+        [ 3, 3 ]
+      ],
+      "speciesParams": {
+        "NumOfPlayers": 2,
+        "NumOfTours": 3,
+        "NumOfPlaygrounds": 4
+      },
+      "MinNumOfPlaygrounds": 2,
+      "MinNumOfOpponents": 1
+    },
+    {
+      "Gens": [
+        [ 2, 2 ],
+        [ 1, 1 ],
+        [ 4, 4 ]
+      ],
+      "speciesParams": {
+        "NumOfPlayers": 2,
+        "NumOfTours": 3,
+        "NumOfPlaygrounds": 4
+      },
+      "MinNumOfPlaygrounds": 3,
+      "MinNumOfOpponents": 1
+    },
+    {
+      "Gens": [
+        [ 3, 3 ],
+        [ 4, 4 ],
+        [ 1, 1 ]
+      ],
+      "speciesParams": {
+        "NumOfPlayers": 2,
+        "NumOfTours": 3,
+        "NumOfPlaygrounds": 4
+      },
+      "MinNumOfPlaygrounds": 3,
+      "MinNumOfOpponents": 1
+    },
+    {
+      "Gens": [
+        [ 1, 1 ],
+        [ 1, 1 ],
+        [ 1, 1 ]
+      ],
+      "speciesParams": {
+        "NumOfPlayers": 2,
+        "NumOfTours": 3,
+        "NumOfPlaygrounds": 4
+      },
+      "MinNumOfPlaygrounds": 1,
+      "MinNumOfOpponents": 1
+    },
+    {
+      "Gens": [
+        [ 4, 4 ],
+        [ 1, 1 ],
+        [ 4, 4 ]
+      ],
+      "speciesParams": {
+        "NumOfPlayers": 2,
+        "NumOfTours": 3,
+        "NumOfPlaygrounds": 4
+      },
+      "MinNumOfPlaygrounds": 2,
+      "MinNumOfOpponents": 1
+    },
+    {
+      "Gens": [
+        [ 1, 1 ],
+        [ 4, 4 ],
+        [ 4, 4 ]
+      ],
+      "speciesParams": {
+        "NumOfPlayers": 2,
+        "NumOfTours": 3,
+        "NumOfPlaygrounds": 4
+      },
+      "MinNumOfPlaygrounds": 2,
+      "MinNumOfOpponents": 1
+    },
+    {
+      "Gens": [
+        [ 4, 4 ],
+        [ 4, 4 ],
+        [ 4, 4 ]
+      ],
+      "speciesParams": {
+        "NumOfPlayers": 2,
+        "NumOfTours": 3,
+        "NumOfPlaygrounds": 4
+      },
+      "MinNumOfPlaygrounds": 1,
+      "MinNumOfOpponents": 1
+    },
+    {
+      "Gens": [
+        [ 1, 1 ],
+        [ 2, 2 ],
+        [ 4, 4 ]
+      ],
+      "speciesParams": {
+        "NumOfPlayers": 2,
+        "NumOfTours": 3,
+        "NumOfPlaygrounds": 4
+      },
+      "MinNumOfPlaygrounds": 3,
+      "MinNumOfOpponents": 1
+    },
+    {
+      "Gens": [
+        [ 0, 0 ],
+        [ 3, 3 ],
+        [ 2, 2 ]
+      ],
+      "speciesParams": {
+        "NumOfPlayers": 2,
+        "NumOfTours": 3,
+        "NumOfPlaygrounds": 4
+      },
+      "MinNumOfPlaygrounds": 3,
+      "MinNumOfOpponents": 1
+    },
+    {
+      "Gens": [
+        [ 2, 2 ],
+        [ 4, 4 ],
+        [ 3, 3 ]
+      ],
+      "speciesParams": {
+        "NumOfPlayers": 2,
+        "NumOfTours": 3,
+        "NumOfPlaygrounds": 4
+      },
+      "MinNumOfPlaygrounds": 3,
+      "MinNumOfOpponents": 1
+    },
+    {
+      "Gens": [
+        [ 3, 3 ],
+        [ 4, 4 ],
+        [ 3, 3 ]
+      ],
+      "speciesParams": {
+        "NumOfPlayers": 2,
+        "NumOfTours": 3,
+        "NumOfPlaygrounds": 4
+      },
+      "MinNumOfPlaygrounds": 2,
+      "MinNumOfOpponents": 1
+    },
+    {
+      "Gens": [
+        [ 4, 4 ],
+        [ 1, 1 ],
+        [ 3, 3 ]
+      ],
+      "speciesParams": {
+        "NumOfPlayers": 2,
+        "NumOfTours": 3,
+        "NumOfPlaygrounds": 4
+      },
+      "MinNumOfPlaygrounds": 3,
+      "MinNumOfOpponents": 1
+    },
+    {
+      "Gens": [
+        [ 2, 2 ],
+        [ 4, 4 ],
+        [ 4, 4 ]
+      ],
+      "speciesParams": {
+        "NumOfPlayers": 2,
+        "NumOfTours": 3,
+        "NumOfPlaygrounds": 4
+      },
+      "MinNumOfPlaygrounds": 2,
+      "MinNumOfOpponents": 1
+    },
+    {
+      "Gens": [
+        [ 0, 0 ],
+        [ 3, 3 ],
+        [ 3, 3 ]
+      ],
+      "speciesParams": {
+        "NumOfPlayers": 2,
+        "NumOfTours": 3,
+        "NumOfPlaygrounds": 4
+      },
+      "MinNumOfPlaygrounds": 2,
+      "MinNumOfOpponents": 1
+    },
+    {
+      "Gens": [
+        [ 4, 4 ],
+        [ 1, 1 ],
+        [ 2, 2 ]
+      ],
+      "speciesParams": {
+        "NumOfPlayers": 2,
+        "NumOfTours": 3,
+        "NumOfPlaygrounds": 4
+      },
+      "MinNumOfPlaygrounds": 3,
+      "MinNumOfOpponents": 1
+    },
+    {
+      "Gens": [
+        [ 4, 4 ],
+        [ 3, 3 ],
+        [ 4, 4 ]
+      ],
+      "speciesParams": {
+        "NumOfPlayers": 2,
+        "NumOfTours": 3,
+        "NumOfPlaygrounds": 4
+      },
+      "MinNumOfPlaygrounds": 2,
+      "MinNumOfOpponents": 1
+    },
+    {
+      "Gens": [
+        [ 1, 1 ],
+        [ 3, 3 ],
+        [ 4, 4 ]
+      ],
+      "speciesParams": {
+        "NumOfPlayers": 2,
+        "NumOfTours": 3,
+        "NumOfPlaygrounds": 4
+      },
+      "MinNumOfPlaygrounds": 3,
+      "MinNumOfOpponents": 1
+    },
+    {
+      "Gens": [
+        [ 2, 2 ],
+        [ 0, 0 ],
+        [ 2, 2 ]
+      ],
+      "speciesParams": {
+        "NumOfPlayers": 2,
+        "NumOfTours": 3,
+        "NumOfPlaygrounds": 4
+      },
+      "MinNumOfPlaygrounds": 2,
+      "MinNumOfOpponents": 1
+    },
+    {
+      "Gens": [
+        [ 2, 2 ],
+        [ 3, 3 ],
+        [ 2, 2 ]
+      ],
+      "speciesParams": {
+        "NumOfPlayers": 2,
+        "NumOfTours": 3,
+        "NumOfPlaygrounds": 4
+      },
+      "MinNumOfPlaygrounds": 2,
+      "MinNumOfOpponents": 1
+    },
+    {
+      "Gens": [
+        [ 1, 1 ],
+        [ 4, 4 ],
+        [ 4, 4 ]
+      ],
+      "speciesParams": {
+        "NumOfPlayers": 2,
+        "NumOfTours": 3,
+        "NumOfPlaygrounds": 4
+      },
+      "MinNumOfPlaygrounds": 2,
+      "MinNumOfOpponents": 1
+    },
+    {
+      "Gens": [
+        [ 1, 1 ],
+        [ 2, 2 ],
+        [ 4, 4 ]
+      ],
+      "speciesParams": {
+        "NumOfPlayers": 2,
+        "NumOfTours": 3,
+        "NumOfPlaygrounds": 4
+      },
+      "MinNumOfPlaygrounds": 3,
+      "MinNumOfOpponents": 1
+    },
+    {
+      "Gens": [
+        [ 0, 0 ],
+        [ 0, 0 ],
+        [ 1, 1 ]
+      ],
+      "speciesParams": {
+        "NumOfPlayers": 2,
+        "NumOfTours": 3,
+        "NumOfPlaygrounds": 4
+      },
+      "MinNumOfPlaygrounds": 2,
+      "MinNumOfOpponents": 1
+    },
+    {
+      "Gens": [
+        [ 1, 1 ],
+        [ 2, 2 ],
+        [ 1, 1 ]
+      ],
+      "speciesParams": {
+        "NumOfPlayers": 2,
+        "NumOfTours": 3,
+        "NumOfPlaygrounds": 4
+      },
+      "MinNumOfPlaygrounds": 2,
+      "MinNumOfOpponents": 1
+    },
+    {
+      "Gens": [
+        [ 4, 4 ],
+        [ 1, 1 ],
+        [ 4, 4 ]
+      ],
+      "speciesParams": {
+        "NumOfPlayers": 2,
+        "NumOfTours": 3,
+        "NumOfPlaygrounds": 4
+      },
+      "MinNumOfPlaygrounds": 2,
+      "MinNumOfOpponents": 1
+    },
+    {
+      "Gens": [
+        [ 4, 4 ],
+        [ 1, 1 ],
+        [ 0, 0 ]
+      ],
+      "speciesParams": {
+        "NumOfPlayers": 2,
+        "NumOfTours": 3,
+        "NumOfPlaygrounds": 4
+      },
+      "MinNumOfPlaygrounds": 3,
+      "MinNumOfOpponents": 1
+    },
+    {
+      "Gens": [
+        [ 3, 3 ],
+        [ 4, 4 ],
+        [ 2, 2 ]
+      ],
+      "speciesParams": {
+        "NumOfPlayers": 2,
+        "NumOfTours": 3,
+        "NumOfPlaygrounds": 4
+      },
+      "MinNumOfPlaygrounds": 3,
+      "MinNumOfOpponents": 1
+    },
+    {
+      "Gens": [
+        [ 3, 3 ],
+        [ 1, 1 ],
+        [ 3, 3 ]
+      ],
+      "speciesParams": {
+        "NumOfPlayers": 2,
+        "NumOfTours": 3,
+        "NumOfPlaygrounds": 4
+      },
+      "MinNumOfPlaygrounds": 2,
+      "MinNumOfOpponents": 1
+    },
+    {
+      "Gens": [
+        [ 0, 0 ],
+        [ 1, 1 ],
+        [ 3, 3 ]
+      ],
+      "speciesParams": {
+        "NumOfPlayers": 2,
+        "NumOfTours": 3,
+        "NumOfPlaygrounds": 4
+      },
+      "MinNumOfPlaygrounds": 3,
+      "MinNumOfOpponents": 1
+    },
+    {
+      "Gens": [
+        [ 3, 3 ],
+        [ 3, 3 ],
+        [ 1, 1 ]
+      ],
+      "speciesParams": {
+        "NumOfPlayers": 2,
+        "NumOfTours": 3,
+        "NumOfPlaygrounds": 4
+      },
+      "MinNumOfPlaygrounds": 2,
+      "MinNumOfOpponents": 1
+    },
+    {
+      "Gens": [
+        [ 2, 2 ],
+        [ 4, 4 ],
+        [ 4, 4 ]
+      ],
+      "speciesParams": {
+        "NumOfPlayers": 2,
+        "NumOfTours": 3,
+        "NumOfPlaygrounds": 4
+      },
+      "MinNumOfPlaygrounds": 2,
+      "MinNumOfOpponents": 1
+    },
+    {
+      "Gens": [
+        [ 2, 2 ],
+        [ 4, 4 ],
+        [ 0, 0 ]
+      ],
+      "speciesParams": {
+        "NumOfPlayers": 2,
+        "NumOfTours": 3,
+        "NumOfPlaygrounds": 4
+      },
+      "MinNumOfPlaygrounds": 3,
+      "MinNumOfOpponents": 1
+    },
+    {
+      "Gens": [
+        [ 1, 1 ],
+        [ 2, 2 ],
+        [ 2, 2 ]
+      ],
+      "speciesParams": {
+        "NumOfPlayers": 2,
+        "NumOfTours": 3,
+        "NumOfPlaygrounds": 4
+      },
+      "MinNumOfPlaygrounds": 2,
+      "MinNumOfOpponents": 1
+    },
+    {
+      "Gens": [
+        [ 3, 3 ],
+        [ 3, 3 ],
+        [ 4, 4 ]
+      ],
+      "speciesParams": {
+        "NumOfPlayers": 2,
+        "NumOfTours": 3,
+        "NumOfPlaygrounds": 4
+      },
+      "MinNumOfPlaygrounds": 2,
+      "MinNumOfOpponents": 1
+    },
+    {
+      "Gens": [
+        [ 3, 3 ],
+        [ 2, 2 ],
+        [ 2, 2 ]
+      ],
+      "speciesParams": {
+        "NumOfPlayers": 2,
+        "NumOfTours": 3,
+        "NumOfPlaygrounds": 4
+      },
+      "MinNumOfPlaygrounds": 2,
+      "MinNumOfOpponents": 1
+    },
+    {
+      "Gens": [
+        [ 0, 0 ],
+        [ 3, 3 ],
+        [ 4, 4 ]
+      ],
+      "speciesParams": {
+        "NumOfPlayers": 2,
+        "NumOfTours": 3,
+        "NumOfPlaygrounds": 4
+      },
+      "MinNumOfPlaygrounds": 3,
+      "MinNumOfOpponents": 1
+    },
+    {
+      "Gens": [
+        [ 4, 4 ],
+        [ 3, 3 ],
+        [ 0, 0 ]
+      ],
+      "speciesParams": {
+        "NumOfPlayers": 2,
+        "NumOfTours": 3,
+        "NumOfPlaygrounds": 4
+      },
+      "MinNumOfPlaygrounds": 3,
+      "MinNumOfOpponents": 1
+    },
+    {
+      "Gens": [
+        [ 0, 0 ],
+        [ 2, 2 ],
+        [ 2, 2 ]
+      ],
+      "speciesParams": {
+        "NumOfPlayers": 2,
+        "NumOfTours": 3,
+        "NumOfPlaygrounds": 4
+      },
+      "MinNumOfPlaygrounds": 2,
+      "MinNumOfOpponents": 1
+    },
+    {
+      "Gens": [
+        [ 2, 2 ],
+        [ 1, 1 ],
+        [ 3, 3 ]
+      ],
+      "speciesParams": {
+        "NumOfPlayers": 2,
+        "NumOfTours": 3,
+        "NumOfPlaygrounds": 4
+      },
+      "MinNumOfPlaygrounds": 3,
+      "MinNumOfOpponents": 1
+    },
+    {
+      "Gens": [
+        [ 2, 2 ],
+        [ 1, 1 ],
+        [ 1, 1 ]
+      ],
+      "speciesParams": {
+        "NumOfPlayers": 2,
+        "NumOfTours": 3,
+        "NumOfPlaygrounds": 4
+      },
+      "MinNumOfPlaygrounds": 2,
+      "MinNumOfOpponents": 1
+    },
+    {
+      "Gens": [
+        [ 2, 2 ],
+        [ 3, 3 ],
+        [ 0, 0 ]
+      ],
+      "speciesParams": {
+        "NumOfPlayers": 2,
+        "NumOfTours": 3,
+        "NumOfPlaygrounds": 4
+      },
+      "MinNumOfPlaygrounds": 3,
+      "MinNumOfOpponents": 1
+    },
+    {
+      "Gens": [
+        [ 0, 0 ],
+        [ 4, 4 ],
+        [ 3, 3 ]
+      ],
+      "speciesParams": {
+        "NumOfPlayers": 2,
+        "NumOfTours": 3,
+        "NumOfPlaygrounds": 4
+      },
+      "MinNumOfPlaygrounds": 3,
+      "MinNumOfOpponents": 1
+    },
+    {
+      "Gens": [
+        [ 4, 4 ],
+        [ 0, 0 ],
+        [ 1, 1 ]
+      ],
+      "speciesParams": {
+        "NumOfPlayers": 2,
+        "NumOfTours": 3,
+        "NumOfPlaygrounds": 4
+      },
+      "MinNumOfPlaygrounds": 3,
+      "MinNumOfOpponents": 1
+    },
+    {
+      "Gens": [
+        [ 1, 1 ],
+        [ 2, 2 ],
+        [ 3, 3 ]
+      ],
+      "speciesParams": {
+        "NumOfPlayers": 2,
+        "NumOfTours": 3,
+        "NumOfPlaygrounds": 4
+      },
+      "MinNumOfPlaygrounds": 3,
+      "MinNumOfOpponents": 1
+    },
+    {
+      "Gens": [
+        [ 1, 1 ],
+        [ 0, 0 ],
+        [ 0, 0 ]
+      ],
+      "speciesParams": {
+        "NumOfPlayers": 2,
+        "NumOfTours": 3,
+        "NumOfPlaygrounds": 4
+      },
+      "MinNumOfPlaygrounds": 2,
+      "MinNumOfOpponents": 1
+    },
+    {
+      "Gens": [
+        [ 1, 1 ],
+        [ 2, 2 ],
+        [ 2, 2 ]
+      ],
+      "speciesParams": {
+        "NumOfPlayers": 2,
+        "NumOfTours": 3,
+        "NumOfPlaygrounds": 4
+      },
+      "MinNumOfPlaygrounds": 2,
+      "MinNumOfOpponents": 1
+    },
+    {
+      "Gens": [
+        [ 1, 1 ],
+        [ 4, 4 ],
+        [ 4, 4 ]
+      ],
+      "speciesParams": {
+        "NumOfPlayers": 2,
+        "NumOfTours": 3,
+        "NumOfPlaygrounds": 4
+      },
+      "MinNumOfPlaygrounds": 2,
+      "MinNumOfOpponents": 1
+    },
+    {
+      "Gens": [
+        [ 3, 3 ],
+        [ 2, 2 ],
+        [ 2, 2 ]
+      ],
+      "speciesParams": {
+        "NumOfPlayers": 2,
+        "NumOfTours": 3,
+        "NumOfPlaygrounds": 4
+      },
+      "MinNumOfPlaygrounds": 2,
+      "MinNumOfOpponents": 1
+    },
+    {
+      "Gens": [
+        [ 4, 4 ],
+        [ 4, 4 ],
+        [ 0, 0 ]
+      ],
+      "speciesParams": {
+        "NumOfPlayers": 2,
+        "NumOfTours": 3,
+        "NumOfPlaygrounds": 4
+      },
+      "MinNumOfPlaygrounds": 2,
+      "MinNumOfOpponents": 1
+    },
+    {
+      "Gens": [
+        [ 4, 4 ],
+        [ 0, 0 ],
+        [ 0, 0 ]
+      ],
+      "speciesParams": {
+        "NumOfPlayers": 2,
+        "NumOfTours": 3,
+        "NumOfPlaygrounds": 4
+      },
+      "MinNumOfPlaygrounds": 2,
+      "MinNumOfOpponents": 1
+    },
+    {
+      "Gens": [
+        [ 3, 3 ],
+        [ 1, 1 ],
+        [ 2, 2 ]
+      ],
+      "speciesParams": {
+        "NumOfPlayers": 2,
+        "NumOfTours": 3,
+        "NumOfPlaygrounds": 4
+      },
+      "MinNumOfPlaygrounds": 3,
+      "MinNumOfOpponents": 1
+    },
+    {
+      "Gens": [
+        [ 4, 4 ],
+        [ 2, 2 ],
+        [ 1, 1 ]
+      ],
+      "speciesParams": {
+        "NumOfPlayers": 2,
+        "NumOfTours": 3,
+        "NumOfPlaygrounds": 4
+      },
+      "MinNumOfPlaygrounds": 3,
+      "MinNumOfOpponents": 1
+    },
+    {
+      "Gens": [
+        [ 3, 3 ],
+        [ 3, 3 ],
+        [ 2, 2 ]
+      ],
+      "speciesParams": {
+        "NumOfPlayers": 2,
+        "NumOfTours": 3,
+        "NumOfPlaygrounds": 4
+      },
+      "MinNumOfPlaygrounds": 2,
+      "MinNumOfOpponents": 1
+    },
+    {
+      "Gens": [
+        [ 3, 3 ],
+        [ 0, 0 ],
+        [ 4, 4 ]
+      ],
+      "speciesParams": {
+        "NumOfPlayers": 2,
+        "NumOfTours": 3,
+        "NumOfPlaygrounds": 4
+      },
+      "MinNumOfPlaygrounds": 3,
+      "MinNumOfOpponents": 1
+    },
+    {
+      "Gens": [
+        [ 3, 3 ],
+        [ 4, 4 ],
+        [ 4, 4 ]
+      ],
+      "speciesParams": {
+        "NumOfPlayers": 2,
+        "NumOfTours": 3,
+        "NumOfPlaygrounds": 4
+      },
+      "MinNumOfPlaygrounds": 2,
+      "MinNumOfOpponents": 1
+    },
+    {
+      "Gens": [
+        [ 3, 3 ],
+        [ 3, 3 ],
+        [ 3, 3 ]
+      ],
+      "speciesParams": {
+        "NumOfPlayers": 2,
+        "NumOfTours": 3,
+        "NumOfPlaygrounds": 4
+      },
+      "MinNumOfPlaygrounds": 1,
+      "MinNumOfOpponents": 1
+    },
+    {
+      "Gens": [
+        [ 1, 1 ],
+        [ 2, 2 ],
+        [ 0, 0 ]
+      ],
+      "speciesParams": {
+        "NumOfPlayers": 2,
+        "NumOfTours": 3,
+        "NumOfPlaygrounds": 4
+      },
+      "MinNumOfPlaygrounds": 3,
+      "MinNumOfOpponents": 1
+    },
+    {
+      "Gens": [
+        [ 3, 3 ],
+        [ 2, 2 ],
+        [ 1, 1 ]
+      ],
+      "speciesParams": {
+        "NumOfPlayers": 2,
+        "NumOfTours": 3,
+        "NumOfPlaygrounds": 4
+      },
+      "MinNumOfPlaygrounds": 3,
+      "MinNumOfOpponents": 1
+    },
+    {
+      "Gens": [
+        [ 3, 3 ],
+        [ 1, 1 ],
+        [ 4, 4 ]
+      ],
+      "speciesParams": {
+        "NumOfPlayers": 2,
+        "NumOfTours": 3,
+        "NumOfPlaygrounds": 4
+      },
+      "MinNumOfPlaygrounds": 3,
+      "MinNumOfOpponents": 1
+    },
+    {
+      "Gens": [
+        [ 0, 0 ],
+        [ 2, 2 ],
+        [ 0, 0 ]
+      ],
+      "speciesParams": {
+        "NumOfPlayers": 2,
+        "NumOfTours": 3,
+        "NumOfPlaygrounds": 4
+      },
+      "MinNumOfPlaygrounds": 2,
+      "MinNumOfOpponents": 1
+    },
+    {
+      "Gens": [
+        [ 4, 4 ],
+        [ 3, 3 ],
+        [ 1, 1 ]
+      ],
+      "speciesParams": {
+        "NumOfPlayers": 2,
+        "NumOfTours": 3,
+        "NumOfPlaygrounds": 4
+      },
+      "MinNumOfPlaygrounds": 3,
+      "MinNumOfOpponents": 1
+    },
+    {
+      "Gens": [
+        [ 1, 1 ],
+        [ 2, 2 ],
+        [ 1, 1 ]
+      ],
+      "speciesParams": {
+        "NumOfPlayers": 2,
+        "NumOfTours": 3,
+        "NumOfPlaygrounds": 4
+      },
+      "MinNumOfPlaygrounds": 2,
+      "MinNumOfOpponents": 1
+    },
+    {
+      "Gens": [
+        [ 1, 1 ],
+        [ 1, 1 ],
+        [ 2, 2 ]
+      ],
+      "speciesParams": {
+        "NumOfPlayers": 2,
+        "NumOfTours": 3,
+        "NumOfPlaygrounds": 4
+      },
+      "MinNumOfPlaygrounds": 2,
+      "MinNumOfOpponents": 1
+    },
+    {
+      "Gens": [
+        [ 2, 2 ],
+        [ 3, 3 ],
+        [ 4, 4 ]
+      ],
+      "speciesParams": {
+        "NumOfPlayers": 2,
+        "NumOfTours": 3,
+        "NumOfPlaygrounds": 4
+      },
+      "MinNumOfPlaygrounds": 3,
+      "MinNumOfOpponents": 1
+    },
+    {
+      "Gens": [
+        [ 0, 0 ],
+        [ 2, 2 ],
+        [ 4, 4 ]
+      ],
+      "speciesParams": {
+        "NumOfPlayers": 2,
+        "NumOfTours": 3,
+        "NumOfPlaygrounds": 4
+      },
+      "MinNumOfPlaygrounds": 3,
+      "MinNumOfOpponents": 1
+    },
+    {
+      "Gens": [
+        [ 0, 0 ],
+        [ 3, 3 ],
+        [ 2, 2 ]
+      ],
+      "speciesParams": {
+        "NumOfPlayers": 2,
+        "NumOfTours": 3,
+        "NumOfPlaygrounds": 4
+      },
+      "MinNumOfPlaygrounds": 3,
+      "MinNumOfOpponents": 1
+    },
+    {
+      "Gens": [
+        [ 4, 4 ],
+        [ 2, 2 ],
+        [ 2, 2 ]
+      ],
+      "speciesParams": {
+        "NumOfPlayers": 2,
+        "NumOfTours": 3,
+        "NumOfPlaygrounds": 4
+      },
+      "MinNumOfPlaygrounds": 2,
+      "MinNumOfOpponents": 1
+    },
+    {
+      "Gens": [
+        [ 4, 4 ],
+        [ 0, 0 ],
+        [ 0, 0 ]
+      ],
+      "speciesParams": {
+        "NumOfPlayers": 2,
+        "NumOfTours": 3,
+        "NumOfPlaygrounds": 4
+      },
+      "MinNumOfPlaygrounds": 2,
+      "MinNumOfOpponents": 1
+    },
+    {
+      "Gens": [
+        [ 1, 1 ],
+        [ 3, 3 ],
+        [ 3, 3 ]
+      ],
+      "speciesParams": {
+        "NumOfPlayers": 2,
+        "NumOfTours": 3,
+        "NumOfPlaygrounds": 4
+      },
+      "MinNumOfPlaygrounds": 2,
+      "MinNumOfOpponents": 1
+    },
+    {
+      "Gens": [
+        [ 2, 2 ],
+        [ 3, 3 ],
+        [ 0, 0 ]
+      ],
+      "speciesParams": {
+        "NumOfPlayers": 2,
+        "NumOfTours": 3,
+        "NumOfPlaygrounds": 4
+      },
+      "MinNumOfPlaygrounds": 3,
+      "MinNumOfOpponents": 1
+    },
+    {
+      "Gens": [
+        [ 3, 3 ],
+        [ 2, 2 ],
+        [ 3, 3 ]
+      ],
+      "speciesParams": {
+        "NumOfPlayers": 2,
+        "NumOfTours": 3,
+        "NumOfPlaygrounds": 4
+      },
+      "MinNumOfPlaygrounds": 2,
+      "MinNumOfOpponents": 1
+    },
+    {
+      "Gens": [
+        [ 4, 4 ],
+        [ 3, 3 ],
+        [ 2, 2 ]
+      ],
+      "speciesParams": {
+        "NumOfPlayers": 2,
+        "NumOfTours": 3,
+        "NumOfPlaygrounds": 4
+      },
+      "MinNumOfPlaygrounds": 3,
+      "MinNumOfOpponents": 1
+    },
+    {
+      "Gens": [
+        [ 1, 1 ],
+        [ 3, 3 ],
+        [ 1, 1 ]
+      ],
+      "speciesParams": {
+        "NumOfPlayers": 2,
+        "NumOfTours": 3,
+        "NumOfPlaygrounds": 4
+      },
+      "MinNumOfPlaygrounds": 2,
+      "MinNumOfOpponents": 1
+    },
+    {
+      "Gens": [
+        [ 2, 2 ],
+        [ 4, 4 ],
+        [ 2, 2 ]
+      ],
+      "speciesParams": {
+        "NumOfPlayers": 2,
+        "NumOfTours": 3,
+        "NumOfPlaygrounds": 4
+      },
+      "MinNumOfPlaygrounds": 2,
+      "MinNumOfOpponents": 1
+    },
+    {
+      "Gens": [
+        [ 1, 1 ],
+        [ 3, 3 ],
+        [ 2, 2 ]
+      ],
+      "speciesParams": {
+        "NumOfPlayers": 2,
+        "NumOfTours": 3,
+        "NumOfPlaygrounds": 4
+      },
+      "MinNumOfPlaygrounds": 3,
+      "MinNumOfOpponents": 1
+    },
+    {
+      "Gens": [
+        [ 4, 4 ],
+        [ 0, 0 ],
+        [ 4, 4 ]
+      ],
+      "speciesParams": {
+        "NumOfPlayers": 2,
+        "NumOfTours": 3,
+        "NumOfPlaygrounds": 4
+      },
+      "MinNumOfPlaygrounds": 2,
+      "MinNumOfOpponents": 1
+    },
+    {
+      "Gens": [
+        [ 1, 1 ],
+        [ 2, 2 ],
+        [ 3, 3 ]
+      ],
+      "speciesParams": {
+        "NumOfPlayers": 2,
+        "NumOfTours": 3,
+        "NumOfPlaygrounds": 4
+      },
+      "MinNumOfPlaygrounds": 3,
+      "MinNumOfOpponents": 1
+    },
+    {
+      "Gens": [
+        [ 1, 1 ],
+        [ 4, 4 ],
+        [ 4, 4 ]
+      ],
+      "speciesParams": {
+        "NumOfPlayers": 2,
+        "NumOfTours": 3,
+        "NumOfPlaygrounds": 4
+      },
+      "MinNumOfPlaygrounds": 2,
+      "MinNumOfOpponents": 1
+    },
+    {
+      "Gens": [
+        [ 4, 4 ],
+        [ 4, 4 ],
+        [ 0, 0 ]
+      ],
+      "speciesParams": {
+        "NumOfPlayers": 2,
+        "NumOfTours": 3,
+        "NumOfPlaygrounds": 4
+      },
+      "MinNumOfPlaygrounds": 2,
+      "MinNumOfOpponents": 1
+    },
+    {
+      "Gens": [
+        [ 2, 2 ],
+        [ 1, 1 ],
+        [ 4, 4 ]
+      ],
+      "speciesParams": {
+        "NumOfPlayers": 2,
+        "NumOfTours": 3,
+        "NumOfPlaygrounds": 4
+      },
+      "MinNumOfPlaygrounds": 3,
+      "MinNumOfOpponents": 1
+    },
+    {
+      "Gens": [
+        [ 4, 4 ],
+        [ 0, 0 ],
+        [ 1, 1 ]
+      ],
+      "speciesParams": {
+        "NumOfPlayers": 2,
+        "NumOfTours": 3,
+        "NumOfPlaygrounds": 4
+      },
+      "MinNumOfPlaygrounds": 3,
+      "MinNumOfOpponents": 1
+    },
+    {
+      "Gens": [
+        [ 3, 3 ],
+        [ 2, 2 ],
+        [ 0, 0 ]
+      ],
+      "speciesParams": {
+        "NumOfPlayers": 2,
+        "NumOfTours": 3,
+        "NumOfPlaygrounds": 4
+      },
+      "MinNumOfPlaygrounds": 3,
+      "MinNumOfOpponents": 1
+    },
+    {
+      "Gens": [
+        [ 0, 0 ],
+        [ 4, 4 ],
+        [ 4, 4 ]
+      ],
+      "speciesParams": {
+        "NumOfPlayers": 2,
+        "NumOfTours": 3,
+        "NumOfPlaygrounds": 4
+      },
+      "MinNumOfPlaygrounds": 2,
+      "MinNumOfOpponents": 1
+    },
+    {
+      "Gens": [
+        [ 1, 1 ],
+        [ 3, 3 ],
+        [ 1, 1 ]
+      ],
+      "speciesParams": {
+        "NumOfPlayers": 2,
+        "NumOfTours": 3,
+        "NumOfPlaygrounds": 4
+      },
+      "MinNumOfPlaygrounds": 2,
+      "MinNumOfOpponents": 1
+    },
+    {
+      "Gens": [
+        [ 4, 4 ],
+        [ 0, 0 ],
+        [ 4, 4 ]
+      ],
+      "speciesParams": {
+        "NumOfPlayers": 2,
+        "NumOfTours": 3,
+        "NumOfPlaygrounds": 4
+      },
+      "MinNumOfPlaygrounds": 2,
+      "MinNumOfOpponents": 1
+    },
+    {
+      "Gens": [
+        [ 4, 4 ],
+        [ 2, 2 ],
+        [ 3, 3 ]
+      ],
+      "speciesParams": {
+        "NumOfPlayers": 2,
+        "NumOfTours": 3,
+        "NumOfPlaygrounds": 4
+      },
+      "MinNumOfPlaygrounds": 3,
+      "MinNumOfOpponents": 1
+    },
+    {
+      "Gens": [
+        [ 2, 2 ],
+        [ 4, 4 ],
+        [ 0, 0 ]
+      ],
+      "speciesParams": {
+        "NumOfPlayers": 2,
+        "NumOfTours": 3,
+        "NumOfPlaygrounds": 4
+      },
+      "MinNumOfPlaygrounds": 3,
+      "MinNumOfOpponents": 1
+    },
+    {
+      "Gens": [
+        [ 1, 1 ],
+        [ 3, 3 ],
+        [ 3, 3 ]
+      ],
+      "speciesParams": {
+        "NumOfPlayers": 2,
+        "NumOfTours": 3,
+        "NumOfPlaygrounds": 4
+      },
+      "MinNumOfPlaygrounds": 2,
+      "MinNumOfOpponents": 1
+    },
+    {
+      "Gens": [
+        [ 0, 0 ],
+        [ 0, 0 ],
+        [ 4, 4 ]
+      ],
+      "speciesParams": {
+        "NumOfPlayers": 2,
+        "NumOfTours": 3,
+        "NumOfPlaygrounds": 4
+      },
+      "MinNumOfPlaygrounds": 2,
+      "MinNumOfOpponents": 1
+    },
+    {
+      "Gens": [
+        [ 3, 3 ],
+        [ 0, 0 ],
+        [ 0, 0 ]
+      ],
+      "speciesParams": {
+        "NumOfPlayers": 2,
+        "NumOfTours": 3,
+        "NumOfPlaygrounds": 4
+      },
+      "MinNumOfPlaygrounds": 2,
+      "MinNumOfOpponents": 1
+    },
+    {
+      "Gens": [
+        [ 2, 2 ],
+        [ 1, 1 ],
+        [ 2, 2 ]
+      ],
+      "speciesParams": {
+        "NumOfPlayers": 2,
+        "NumOfTours": 3,
+        "NumOfPlaygrounds": 4
+      },
+      "MinNumOfPlaygrounds": 2,
+      "MinNumOfOpponents": 1
+    },
+    {
+      "Gens": [
+        [ 0, 0 ],
+        [ 1, 1 ],
+        [ 1, 1 ]
+      ],
+      "speciesParams": {
+        "NumOfPlayers": 2,
+        "NumOfTours": 3,
+        "NumOfPlaygrounds": 4
+      },
+      "MinNumOfPlaygrounds": 2,
+      "MinNumOfOpponents": 1
+    },
+    {
+      "Gens": [
+        [ 2, 2 ],
+        [ 1, 1 ],
+        [ 3, 3 ]
+      ],
+      "speciesParams": {
+        "NumOfPlayers": 2,
+        "NumOfTours": 3,
+        "NumOfPlaygrounds": 4
+      },
+      "MinNumOfPlaygrounds": 3,
+      "MinNumOfOpponents": 1
+    },
+    {
+      "Gens": [
+        [ 4, 4 ],
+        [ 4, 4 ],
+        [ 4, 4 ]
+      ],
+      "speciesParams": {
+        "NumOfPlayers": 2,
+        "NumOfTours": 3,
+        "NumOfPlaygrounds": 4
+      },
+      "MinNumOfPlaygrounds": 1,
+      "MinNumOfOpponents": 1
+    },
+    {
+      "Gens": [
+        [ 0, 0 ],
+        [ 3, 3 ],
+        [ 0, 0 ]
+      ],
+      "speciesParams": {
+        "NumOfPlayers": 2,
+        "NumOfTours": 3,
+        "NumOfPlaygrounds": 4
+      },
+      "MinNumOfPlaygrounds": 2,
+      "MinNumOfOpponents": 1
+    },
+    {
+      "Gens": [
+        [ 2, 2 ],
+        [ 0, 0 ],
+        [ 2, 2 ]
+      ],
+      "speciesParams": {
+        "NumOfPlayers": 2,
+        "NumOfTours": 3,
+        "NumOfPlaygrounds": 4
+      },
+      "MinNumOfPlaygrounds": 2,
+      "MinNumOfOpponents": 1
+    },
+    {
+      "Gens": [
+        [ 2, 2 ],
+        [ 1, 1 ],
+        [ 4, 4 ]
+      ],
+      "speciesParams": {
+        "NumOfPlayers": 2,
+        "NumOfTours": 3,
+        "NumOfPlaygrounds": 4
+      },
+      "MinNumOfPlaygrounds": 3,
+      "MinNumOfOpponents": 1
+    },
+    {
+      "Gens": [
+        [ 1, 1 ],
+        [ 2, 2 ],
+        [ 0, 0 ]
+      ],
+      "speciesParams": {
+        "NumOfPlayers": 2,
+        "NumOfTours": 3,
+        "NumOfPlaygrounds": 4
+      },
+      "MinNumOfPlaygrounds": 3,
+      "MinNumOfOpponents": 1
+    },
+    {
+      "Gens": [
+        [ 4, 4 ],
+        [ 2, 2 ],
+        [ 0, 0 ]
+      ],
+      "speciesParams": {
+        "NumOfPlayers": 2,
+        "NumOfTours": 3,
+        "NumOfPlaygrounds": 4
+      },
+      "MinNumOfPlaygrounds": 3,
+      "MinNumOfOpponents": 1
+    },
+    {
+      "Gens": [
+        [ 1, 1 ],
+        [ 0, 0 ],
+        [ 0, 0 ]
+      ],
+      "speciesParams": {
+        "NumOfPlayers": 2,
+        "NumOfTours": 3,
+        "NumOfPlaygrounds": 4
+      },
+      "MinNumOfPlaygrounds": 2,
+      "MinNumOfOpponents": 1
+    },
+    {
+      "Gens": [
+        [ 2, 2 ],
+        [ 3, 3 ],
+        [ 1, 1 ]
+      ],
+      "speciesParams": {
+        "NumOfPlayers": 2,
+        "NumOfTours": 3,
+        "NumOfPlaygrounds": 4
+      },
+      "MinNumOfPlaygrounds": 3,
+      "MinNumOfOpponents": 1
+    },
+    {
+      "Gens": [
+        [ 2, 2 ],
+        [ 4, 4 ],
+        [ 3, 3 ]
+      ],
+      "speciesParams": {
+        "NumOfPlayers": 2,
+        "NumOfTours": 3,
+        "NumOfPlaygrounds": 4
+      },
+      "MinNumOfPlaygrounds": 3,
+      "MinNumOfOpponents": 1
+    }
+  ],
+  "speciesParams": {
+    "NumOfPlayers": 2,
+    "NumOfTours": 3,
+    "NumOfPlaygrounds": 4
+  },
+  "BestSpecies": {
+    "Gens": [
+      [ 3, 3 ],
+      [ 0, 0 ],
+      [ 4, 4 ]
+    ],
+    "speciesParams": {
+      "NumOfPlayers": 2,
+      "NumOfTours": 3,
+      "NumOfPlaygrounds": 4
+    },
+    "MinNumOfPlaygrounds": 3,
+    "MinNumOfOpponents": 1
+  },
+  "BestMinNumOfOpponents": 1,
+  "BestMinNumOfPlaygrounds": 3,
+  "AvgMinNumOfOpponents": 1.0,
+  "AvgMinNumOfPlaygrounds": 2.4133333333333336
+}
